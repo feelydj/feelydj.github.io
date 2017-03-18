@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://feelydj.github.io/post/tcp-handshake/</loc>
+    <lastmod>2017-03-18T17:56:40+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://feelydj.github.io/post/good-to-great/</loc>
     <lastmod>2017-03-16T19:34:46+00:00</lastmod>
   </url>
@@ -39,6 +44,18 @@
   <url>
     <loc>https://feelydj.github.io/post/2012-05-06-awesome-spawn-web-browser/</loc>
     <lastmod>2012-05-06T17:30:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://feelydj.github.io/tags/</loc>
+    <lastmod>2017-03-18T17:56:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://feelydj.github.io/categories/</loc>
+    <lastmod>2017-03-18T17:56:40+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -144,6 +161,7 @@
   
   <url>
     <loc>https://feelydj.github.io/categories/</loc>
+    <lastmod>2017-03-18T17:56:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -213,7 +231,7 @@
   
   <url>
     <loc>https://feelydj.github.io/post/</loc>
-    <lastmod>2017-03-16T19:34:46+00:00</lastmod>
+    <lastmod>2017-03-18T17:56:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -255,6 +273,7 @@
   
   <url>
     <loc>https://feelydj.github.io/tags/</loc>
+    <lastmod>2017-03-18T17:56:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -304,7 +323,7 @@
   
   <url>
     <loc>https://feelydj.github.io/</loc>
-    <lastmod>2017-03-16T19:34:46+00:00</lastmod>
+    <lastmod>2017-03-18T17:56:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   

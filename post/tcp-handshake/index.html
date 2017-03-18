@@ -4,7 +4,7 @@
     <meta name="generator" content="Hugo 0.20-DEV" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>feelydj Blog</title>
+    <title>tcp handshake | feelydj Blog</title>
     
     
     
@@ -15,13 +15,16 @@
   <meta name="author" content="">
 
 
-    <meta property="og:title" content="feelydj Blog" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://feelydj.github.io/" />
+    <meta property="og:title" content="tcp handshake" />
+<meta property="og:description" content="A TCP connection is identified by a set of two IP addresses and two ports. How is this established? The TCP handshake is crucial in setting up a TCP connection. It performs the initial negotiation so that both server and client can begin to send data.
+How it works The client performs an active open meaning it&rsquo;s initiating the connection. The client chooses an ISN (Initial Sequence Number) to start the numbering of it&rsquo;s packets." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://feelydj.github.io/post/tcp-handshake/" />
 
 
 
+<meta property="article:published_time" content="2017-03-18T17:56:40&#43;00:00"/>
+<meta property="article:modified_time" content="2017-03-18T17:56:40&#43;00:00"/>
 
 
 
@@ -39,16 +42,8 @@
 
 
     
-      
-
-
-
-
     
-    
-      <link href="https://feelydj.github.io/index.xml" rel="alternate" type="application/rss+xml" title="feelydj Blog" />
-    
-    <link rel="canonical" href="https://feelydj.github.io/">
+    <link rel="canonical" href="https://feelydj.github.io/post/tcp-handshake/">
     
     
     <link rel="shortcut icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABGdBTUEAALGPC/xhBQAAG+ZJREFU
@@ -261,16 +256,22 @@ jJasrM9JHpMQoTocKVCL4IPr/fOT+fzoT3p+SelrFs2odf2vmwZACVzT9SAJ8iKO6OCx+/tKkw2M
 
 </header>
     <main>
-  <header>
-    <h1>feelydj Blog</h1>
-  </header>
-  
-    <article itemscope itemtype="http://schema.org/CreativeWork">
-  <header>
-    <h2 itemprop="headline">
-      <a href="https://feelydj.github.io/post/2012-08-04-kupfer-rocks/">Kupfer! rocks!</a>
-    </h2>
+  <article itemscope itemtype="http://schema.org/BlogPosting">
     
+<meta itemprop="name" content="tcp handshake">
+<meta itemprop="description" content="A TCP connection is identified by a set of two IP addresses and two ports. How is this established? The TCP handshake is crucial in setting up a TCP connection. It performs the initial negotiation so that both server and client can begin to send data.
+How it works The client performs an active open meaning it&rsquo;s initiating the connection. The client chooses an ISN (Initial Sequence Number) to start the numbering of it&rsquo;s packets.">
+
+
+<meta itemprop="dateModified" content="2017-03-18T17:56:40&#43;00:00" />
+<meta itemprop="wordCount" content="333">
+
+
+
+<meta itemprop="keywords" content=",,awesome," />
+
+    <header>
+      <h1 itemprop="headline">tcp handshake</h1>
       <p class="muted"><svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
   <circle cx="16" cy="16" r="14" />
   <path d="M16 8 L16 16 20 20" />
@@ -280,170 +281,73 @@ jJasrM9JHpMQoTocKVCL4IPr/fOT+fzoT3p+SelrFs2odf2vmwZACVzT9SAJ8iKO6OCx+/tKkw2M
   <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
 </svg>
 
-  Published: <time datetime="0001-01-01T00:00:00&#43;00:00">1 Jan, 0001</time>
+  Published: <time datetime="2017-03-18T17:56:40&#43;00:00">18 Mar, 2017</time>
 
 </p>
+    </header>
     
-  </header>
-  
-  <div itemprop="description">
-    I&rsquo;ve been trying out Kupfer for a few days now. I heard about it from the guys at the Linuxbasix podcast. They gave an empassioned recommendation for this application launcher, but I couldn&rsquo;t make out what exactly what it was called or how it was spelled. If they gave the spelling, I didn&rsquo;t hear it and didn&rsquo;t go back to check because I was driving. Anyway I found the launcher.
-  </div>
-  
-    <p><a itemprop="url" href="/post/2012-08-04-kupfer-rocks/">Read More&nbsp;&raquo;</a></p>
-  
-</article>
-
-  
-    <article itemscope itemtype="http://schema.org/CreativeWork">
-  <header>
-    <h2 itemprop="headline">
-      <a href="https://feelydj.github.io/post/2014-04-24-lee-vermeulen-vr/">Lee Vermeulen on VR</a>
-    </h2>
     
-      <p class="muted"><svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <circle cx="16" cy="16" r="14" />
-  <path d="M16 8 L16 16 20 20" />
-</svg>
-<span>1 minute read</span>
-<svg style="margin-bottom: -3px" id="i-edit" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
-</svg>
 
-  Published: <time datetime="0001-01-01T00:00:00&#43;00:00">1 Jan, 0001</time>
+    <div itemprop="articleBody">
+      
 
+<p>A TCP connection is identified by a set of two IP addresses and two ports. How is this established? The TCP handshake is crucial in setting up a TCP connection. It performs the initial negotiation so that both server and client can begin to send data.</p>
+
+<h2 id="how-it-works">How it works</h2>
+
+<p>The client performs an <em>active open</em> meaning it&rsquo;s initiating the connection. The client chooses an ISN (Initial Sequence Number) to start the numbering of it&rsquo;s packets. This number is a 32-bit integer which is incremented by 1 every 4 microseconds.</p>
+
+<p>The client sends a SYN (synchronize) packet announcing this ISN.</p>
+
+<p>The server (the passive opener) responds with an ACK (acknowledge) which indicates the server has received the initial SYN. The ACK will &lsquo;ackowledge&rsquo; the received sequence number + 1 (essentially it tells the sender which packed the receiver is expecting next). In the same packed the server announces it&rsquo;s own ISN (server and client each have their own sequence).</p>
+
+<p>The client then &lsquo;ACKs&rsquo; the server&rsquo;s SYN.</p>
+
+<p>At this point the connection is established and data can flow between server and client.</p>
+
+<h3 id="how-is-the-isn-chosen">How is the ISN chosen?</h3>
+
+<p>ISN is chosen in a semi-random fashion and along with the time-based incrementation of the number aims to prevent late-arriving packets from an old TCP connection with the same IP addresses and ports from interfering with a newer TCP connection. The 4-tuple (2 IP addresses, 2 ports) is run through a cryptographic hash, along with an additional secret value chosen every five minutes, in order to generate the initial number.</p>
+
+<h3 id="retries">Retries</h3>
+
+<p>If the active opener sends a SYN and does not receive a response, it will retry in &ldquo;exponential backoff&rdquo; fashion, doubling the time it waits after each non-response. It will eventually time out after two minutes.</p>
+
+<p>On Linux, the default retry amount is 5. This can be set with the net.ipv4.tcp_syn_retries_default variable.</p>
+
+<p>Correspondingly, if a server does not receive a response to it&rsquo;s SYN-ACK, it will retry. This also defaults to 5 and is set with net.ipv4.tcp_synack_retries</p>
+
+    </div>
+    
+    <footer>
+      <hr>
+      <p>
+  Published
+  
+    
+      by <span itemprop="author"></span>
+    
+  
+  <time datetime="2017-03-18T17:56:40&#43;00:00">
+    18 Mar, 2017
+  </time>
+  
+    in <span itemprop="articleSection"><a href="/categories//"></a></span>
+  
+  
+    and tagged <a href="/tags//"></a> and <a href="/tags//"></a>
+  
+  using <span itemprop="wordCount">333</span> words.
 </p>
-    
-  </header>
-  
-  <div itemprop="description">
-    After the demo was over I talked to the Valve employee for a few minutes afterwards about the tech. And while standing and in the middle of a sentence, I had an incredibly strange weird moment of comparing real life to the VR. I understood that the demo was over, but it was if a lower level part of my mind couldn’t exactly be sure. It give me a very weird existential dread of my entire situation, and the only way I could get rid of that feeling was to walk around or touch things around me (or sit down, basically just get in a situation where I wasn’t just standing still like I was in the VR demo).
-  </div>
-  
-    <p><a itemprop="url" href="/post/2014-04-24-lee-vermeulen-vr/">Read More&nbsp;&raquo;</a></p>
-  
-</article>
 
-  
-    <article itemscope itemtype="http://schema.org/CreativeWork">
-  <header>
-    <h2 itemprop="headline">
-      <a href="https://feelydj.github.io/post/2014-12-29-recipes/">Links to recipes</a>
-    </h2>
-    
-      <p class="muted"><svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <circle cx="16" cy="16" r="14" />
-  <path d="M16 8 L16 16 20 20" />
-</svg>
-<span>1 minute read</span>
-<svg style="margin-bottom: -3px" id="i-edit" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
-</svg>
+      
 
-  Published: <time datetime="0001-01-01T00:00:00&#43;00:00">1 Jan, 0001</time>
 
-</p>
-    
-  </header>
-  
-  <div itemprop="description">
-    Shepherd&rsquo;s Pie with spiced parsnip mash
-Ottolenghi&rsquo;s shakshuka recipe
-Paleo Fish and Chips
-Sirloin Salad with Fresh Herbs and Thai Dressing
-Thai Fish Soup
-Perfect Chicken Tikka
-Crab with Mango and Avocado
-Roasted Chicken Perfect roasted chicken
-Slow-roasted chicken
-Pancakes Sweet Potato Pancakes
-Paleo Pumpkin Pancakes
-Fluffy Coconut Flour Pancakes
-Pate Chicken Liver Pate Recipe
-Misc Coconut Granola
-Chia Seed Energy Bars
-  </div>
-  
-</article>
 
-  
-    <article itemscope itemtype="http://schema.org/CreativeWork">
-  <header>
-    <h2 itemprop="headline">
-      <a href="https://feelydj.github.io/post/2011-12-08-linux-mint-12/">Linux Mint 12</a>
-    </h2>
-    
-      <p class="muted"><svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <circle cx="16" cy="16" r="14" />
-  <path d="M16 8 L16 16 20 20" />
-</svg>
-<span>2 minute read</span>
-<svg style="margin-bottom: -3px" id="i-edit" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
-</svg>
-
-  Published: <time datetime="0001-01-01T00:00:00&#43;00:00">1 Jan, 0001</time>
-
-</p>
-    
-  </header>
-  
-  <div itemprop="description">
-    I&rsquo;ve been using Mint 12 for a couple of weeks now.
-It was exciting to install as I&rsquo;d read a lot about how good it was, even if a lot of the news articles and &ldquo;reviews&rdquo; had started to sound a bit forced and repetitive. The general theme of these was &ldquo;The Mint team have done it again&rdquo; and &ldquo;Mint 12 branches into new territory while retaining that polished Mint feel&rdquo;.
-  </div>
-  
-    <p><a itemprop="url" href="/post/2011-12-08-linux-mint-12/">Read More&nbsp;&raquo;</a></p>
-  
-</article>
-
-  
-    <article itemscope itemtype="http://schema.org/CreativeWork">
-  <header>
-    <h2 itemprop="headline">
-      <a href="https://feelydj.github.io/post/2012-01-29-linux-games-dead-cyborg-episode-1/">Linux games: Dead Cyborg Episode 1</a>
-    </h2>
-    
-      <p class="muted"><svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <circle cx="16" cy="16" r="14" />
-  <path d="M16 8 L16 16 20 20" />
-</svg>
-<span>3 minute read</span>
-<svg style="margin-bottom: -3px" id="i-edit" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
-</svg>
-
-  Published: <time datetime="0001-01-01T00:00:00&#43;00:00">1 Jan, 0001</time>
-
-</p>
-    
-  </header>
-  
-  <div itemprop="description">
-    Endre Barath&rsquo;s Dead Cyborg is a first-person puzzle adventure game based on a free, donation-based model.
-It&rsquo;s not open-source, but it runs perfectly on Linux.
-Dead Cyborg can be downloaded from the site (I recommend version 002 as it supports mouse look instead of just the arrow keys). To get it running you simply extract it and run one of the four bash scripts provided depending on which suits your needs.
-  </div>
-  
-    <p><a itemprop="url" href="/post/2012-01-29-linux-games-dead-cyborg-episode-1/">Read More&nbsp;&raquo;</a></p>
-  
-</article>
-
-  
+    </footer>
+  </article>
 </main>
     <footer>
-  <nav>
-  <p>
-    
-      <a href="/page/8/">&laquo; Previous</a> |
-    
-    <span>Page 9 of 22</span>
-    
-      | <a href="/page/10/">Next &raquo;</a>
-    
-  </p>
-</nav>
-
   
   <p class="muted">
     This page was generated by

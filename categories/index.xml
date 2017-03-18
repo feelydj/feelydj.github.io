@@ -1,12 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on feelydj Blog</title>
+    <title>feelydj Blog</title>
     <link>https://feelydj.github.io/categories/index.xml</link>
-    <description>Recent content in Categories on feelydj Blog</description>
+    <description>Recent content on feelydj Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://feelydj.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>tcp handshake</title>
+      <link>https://feelydj.github.io/post/tcp-handshake/</link>
+      <pubDate>Sat, 18 Mar 2017 17:56:40 +0000</pubDate>
+      
+      <guid>https://feelydj.github.io/post/tcp-handshake/</guid>
+      <description>
+
+&lt;p&gt;A TCP connection is identified by a set of two IP addresses and two ports. How is this established? The TCP handshake is crucial in setting up a TCP connection. It performs the initial negotiation so that both server and client can begin to send data.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-it-works&#34;&gt;How it works&lt;/h2&gt;
+
+&lt;p&gt;The client performs an &lt;em&gt;active open&lt;/em&gt; meaning it&amp;rsquo;s initiating the connection. The client chooses an ISN (Initial Sequence Number) to start the numbering of it&amp;rsquo;s packets. This number is a 32-bit integer which is incremented by 1 every 4 microseconds.&lt;/p&gt;
+
+&lt;p&gt;The client sends a SYN (synchronize) packet announcing this ISN.&lt;/p&gt;
+
+&lt;p&gt;The server (the passive opener) responds with an ACK (acknowledge) which indicates the server has received the initial SYN. The ACK will &amp;lsquo;ackowledge&amp;rsquo; the received sequence number + 1 (essentially it tells the sender which packed the receiver is expecting next). In the same packed the server announces it&amp;rsquo;s own ISN (server and client each have their own sequence).&lt;/p&gt;
+
+&lt;p&gt;The client then &amp;lsquo;ACKs&amp;rsquo; the server&amp;rsquo;s SYN.&lt;/p&gt;
+
+&lt;p&gt;At this point the connection is established and data can flow between server and client.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-is-the-isn-chosen&#34;&gt;How is the ISN chosen?&lt;/h3&gt;
+
+&lt;p&gt;ISN is chosen in a semi-random fashion and along with the time-based incrementation of the number aims to prevent late-arriving packets from an old TCP connection with the same IP addresses and ports from interfering with a newer TCP connection. The 4-tuple (2 IP addresses, 2 ports) is run through a cryptographic hash, along with an additional secret value chosen every five minutes, in order to generate the initial number.&lt;/p&gt;
+
+&lt;h3 id=&#34;retries&#34;&gt;Retries&lt;/h3&gt;
+
+&lt;p&gt;If the active opener sends a SYN and does not receive a response, it will retry in &amp;ldquo;exponential backoff&amp;rdquo; fashion, doubling the time it waits after each non-response. It will eventually time out after two minutes.&lt;/p&gt;
+
+&lt;p&gt;On Linux, the default retry amount is 5. This can be set with the net.ipv4.tcp_syn_retries_default variable.&lt;/p&gt;
+
+&lt;p&gt;Correspondingly, if a server does not receive a response to it&amp;rsquo;s SYN-ACK, it will retry. This also defaults to 5 and is set with net.ipv4.tcp_synack_retries&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
