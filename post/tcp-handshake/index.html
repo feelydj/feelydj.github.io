@@ -299,7 +299,7 @@ How it works The client performs an active open meaning it&rsquo;s initiating th
 
 <p>The client sends a SYN (synchronize) packet announcing this ISN.</p>
 
-<p>The server (the passive opener) responds with an ACK (acknowledge) which indicates the server has received the initial SYN. The ACK will &lsquo;ackowledge&rsquo; the received sequence number + 1 (essentially it tells the sender which packed the receiver is expecting next). In the same packed the server announces it&rsquo;s own ISN (server and client each have their own sequence).</p>
+<p>The server (the passive opener) responds with an ACK (acknowledge) which indicates the server has received the initial SYN. The ACK will &lsquo;ackowledge&rsquo; the received sequence number + 1 (essentially it tells the sender which packet the receiver is expecting next). In the same packet the server announces it&rsquo;s own ISN (server and client each have their own sequence).</p>
 
 <p>The client then &lsquo;ACKs&rsquo; the server&rsquo;s SYN.</p>
 

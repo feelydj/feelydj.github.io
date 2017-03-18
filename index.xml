@@ -25,7 +25,7 @@
 
 &lt;p&gt;The client sends a SYN (synchronize) packet announcing this ISN.&lt;/p&gt;
 
-&lt;p&gt;The server (the passive opener) responds with an ACK (acknowledge) which indicates the server has received the initial SYN. The ACK will &amp;lsquo;ackowledge&amp;rsquo; the received sequence number + 1 (essentially it tells the sender which packed the receiver is expecting next). In the same packed the server announces it&amp;rsquo;s own ISN (server and client each have their own sequence).&lt;/p&gt;
+&lt;p&gt;The server (the passive opener) responds with an ACK (acknowledge) which indicates the server has received the initial SYN. The ACK will &amp;lsquo;ackowledge&amp;rsquo; the received sequence number + 1 (essentially it tells the sender which packet the receiver is expecting next). In the same packet the server announces it&amp;rsquo;s own ISN (server and client each have their own sequence).&lt;/p&gt;
 
 &lt;p&gt;The client then &amp;lsquo;ACKs&amp;rsquo; the server&amp;rsquo;s SYN.&lt;/p&gt;
 
