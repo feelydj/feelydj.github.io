@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Adventure Servers Blog</title>
-    <link>https://feelydj.github.io/blog/tags/index.xml</link>
-    <description>Recent content in Tags on Adventure Servers Blog</description>
+    <title>Tags on feelydj Blog</title>
+    <link>https://feelydj.github.io/tags/index.xml</link>
+    <description>Recent content in Tags on feelydj Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://feelydj.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://feelydj.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Awesome</title>
-      <link>https://feelydj.github.io/blog/tags/awesome/</link>
+      <link>https://feelydj.github.io/tags/awesome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/tags/awesome/</guid>
+      <guid>https://feelydj.github.io/tags/awesome/</guid>
       <description></description>
     </item>
     

@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adventure Servers Blog</title>
-    <link>https://feelydj.github.io/blog/index.xml</link>
-    <description>Recent content on Adventure Servers Blog</description>
+    <title>feelydj Blog</title>
+    <link>https://feelydj.github.io/index.xml</link>
+    <description>Recent content on feelydj Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Mar 2017 19:34:46 +0000</lastBuildDate>
-    <atom:link href="https://feelydj.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://feelydj.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>good to great</title>
-      <link>https://feelydj.github.io/blog/post/good-to-great/</link>
+      <link>https://feelydj.github.io/post/good-to-great/</link>
       <pubDate>Thu, 16 Mar 2017 19:34:46 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/good-to-great/</guid>
+      <guid>https://feelydj.github.io/post/good-to-great/</guid>
       <description>&lt;p&gt;First post!!!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>2014-04-12 quote</title>
-      <link>https://feelydj.github.io/blog/post/2014-04-12-notch-tweet/</link>
+      <link>https://feelydj.github.io/post/2014-04-12-notch-tweet/</link>
       <pubDate>Sat, 12 Apr 2014 21:35:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-04-12-notch-tweet/</guid>
+      <guid>https://feelydj.github.io/post/2014-04-12-notch-tweet/</guid>
       <description>&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p&gt;We were in talks about maybe bringing a version of Minecraft to Oculus. I just cancelled that deal. Facebook creeps me out.&lt;/p&gt;&amp;mdash; Markus Persson (@notch) &lt;a href=&#34;https://twitter.com/notch/statuses/448586381565390848&#34;&gt;March 25, 2014&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
@@ -40,10 +40,10 @@ And I did not chip in ten grand to seed a first investment round to build value 
     
     <item>
       <title>my presence is a present</title>
-      <link>https://feelydj.github.io/blog/post/2012-11-04-my-presence-is-a-present/</link>
+      <link>https://feelydj.github.io/post/2012-11-04-my-presence-is-a-present/</link>
       <pubDate>Sun, 04 Nov 2012 15:05:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-11-04-my-presence-is-a-present/</guid>
+      <guid>https://feelydj.github.io/post/2012-11-04-my-presence-is-a-present/</guid>
       <description>&lt;p&gt;I accidentally wget&amp;rsquo;d the contents of a Github page instead of the &amp;ldquo;raw&amp;rdquo; link to the file. In trying to figure out what was going on, I found this near the bottom of the file:&lt;/p&gt;
 
 &lt;pre&gt;
@@ -58,10 +58,10 @@ And I did not chip in ten grand to seed a first investment round to build value 
     
     <item>
       <title>scripting the creation of new Jekyll posts</title>
-      <link>https://feelydj.github.io/blog/post/2012-06-26-script-start-new-jekyll-post-with-date/</link>
+      <link>https://feelydj.github.io/post/2012-06-26-script-start-new-jekyll-post-with-date/</link>
       <pubDate>Tue, 26 Jun 2012 20:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-06-26-script-start-new-jekyll-post-with-date/</guid>
+      <guid>https://feelydj.github.io/post/2012-06-26-script-start-new-jekyll-post-with-date/</guid>
       <description>&lt;p&gt;I haven&amp;rsquo;t played around with bash so much before, but I&amp;rsquo;m learning by trying to automate things I do repeatedly. I found myself often starting a new Jekyll post with that magical filename format: &lt;code&gt;YYYY-MM-DD-title.md&lt;/code&gt;. So I decided to try and get that done using an alias, which didn&amp;rsquo;t really work, so I ended up adding a function to my .bashrc:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;function editpost()
@@ -85,21 +85,21 @@ And I did not chip in ten grand to seed a first investment round to build value 
     
     <item>
       <title>Bill Cosby</title>
-      <link>https://feelydj.github.io/blog/post/bill-cosby/</link>
+      <link>https://feelydj.github.io/post/bill-cosby/</link>
       <pubDate>Tue, 26 Jun 2012 19:50:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/bill-cosby/</guid>
+      <guid>https://feelydj.github.io/post/bill-cosby/</guid>
       <description>&lt;p&gt;&amp;ldquo;I don’t know the key to success, but the key to failure is trying to please everyone.&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>review: The Mythical Man-Month</title>
-      <link>https://feelydj.github.io/blog/post/2012-05-26-review-mythical-man-month/</link>
+      <link>https://feelydj.github.io/post/2012-05-26-review-mythical-man-month/</link>
       <pubDate>Sat, 26 May 2012 13:05:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-05-26-review-mythical-man-month/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/TarPits.jpg&#34; alt=&#34;La Brea tar Pits&#34; /&gt;&lt;/p&gt;
+      <guid>https://feelydj.github.io/post/2012-05-26-review-mythical-man-month/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/TarPits.jpg&#34; alt=&#34;La Brea tar Pits&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I read one book this semester. I thought I&amp;rsquo;d be able to read three or four. I&amp;rsquo;ll need to make more time for it. Summer&amp;rsquo;s here now, so I made a last-minute effort to get it finished. I&amp;rsquo;ve been reading slowly, chapter-by-chapter, at the weekends.&lt;/p&gt;
 
@@ -123,10 +123,10 @@ And I did not chip in ten grand to seed a first investment round to build value 
     
     <item>
       <title>2012-05-13 quote</title>
-      <link>https://feelydj.github.io/blog/post/2012-05-13-quote/</link>
+      <link>https://feelydj.github.io/post/2012-05-13-quote/</link>
       <pubDate>Sun, 13 May 2012 16:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-05-13-quote/</guid>
+      <guid>https://feelydj.github.io/post/2012-05-13-quote/</guid>
       <description>&lt;div class=&#34;quote&#34;&gt;
 This is an unofficial, fan made remix album. No copyright infringement or offense intended. Just loving the music. (Don&#39;t sue me, I don&#39;t fucking have anything.)
 &lt;/div&gt;
@@ -139,10 +139,10 @@ This is an unofficial, fan made remix album. No copyright infringement or offens
     
     <item>
       <title>spawn a web browser with a hotkey in Awesome</title>
-      <link>https://feelydj.github.io/blog/post/2012-05-06-awesome-spawn-web-browser/</link>
+      <link>https://feelydj.github.io/post/2012-05-06-awesome-spawn-web-browser/</link>
       <pubDate>Sun, 06 May 2012 17:30:45 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-05-06-awesome-spawn-web-browser/</guid>
+      <guid>https://feelydj.github.io/post/2012-05-06-awesome-spawn-web-browser/</guid>
       <description>&lt;p&gt;As I&amp;rsquo;m getting the hang of Awesome&amp;rsquo;s config file and Lua, I&amp;rsquo;m finding it to be really powerful. Yesterday I &lt;a href=&#34;http://awesome.naquadah.org/wiki/Volume_control_and_display&#34;&gt;added a volume control widget&lt;/a&gt;, and today I&amp;rsquo;m doing something I&amp;rsquo;ve been meaning to do for a while - adding a hotkey for opening a browser.&lt;/p&gt;
 
 &lt;p&gt;To do this you need to find the key bindings section in rc.lua. I wanted to have mod key + w open Chromium. This is similiar to something I found really handy in &lt;a href=&#34;http://crunchbanglinux.org/&#34;&gt;Crunchbang&lt;/a&gt;. By default, mod key + w opens another Awesome menu at the cursor, which is something I haven&amp;rsquo;t used once and can&amp;rsquo;t imagine using, so I replaced that.&lt;/p&gt;
@@ -165,11 +165,11 @@ This is an unofficial, fan made remix album. No copyright infringement or offens
     
     <item>
       <title>&#39;I Wish&#39; English trailer</title>
-      <link>https://feelydj.github.io/blog/post/2012-04-15-i-wish-english-trailer/</link>
+      <link>https://feelydj.github.io/post/2012-04-15-i-wish-english-trailer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-04-15-i-wish-english-trailer/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/koreeda.jpg&#34; alt=&#34;Koreeda&#34; /&gt;&lt;/p&gt;
+      <guid>https://feelydj.github.io/post/2012-04-15-i-wish-english-trailer/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/koreeda.jpg&#34; alt=&#34;Koreeda&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The English-language trailer for &lt;i&gt;I Wish&lt;/i&gt; (Kiseki) &lt;a href=&#34;http://trailers.apple.com/trailers/magnolia/iwish/&#34;&gt;has been released&lt;/a&gt;. This is the latest film from the extremely talented Japanese director &lt;a href=&#34;http://en.wikipedia.org/wiki/Hirokazu_Koreeda&#34;&gt;Hirokazu Koreeda&lt;/a&gt;&lt;/p&gt;
 
@@ -193,10 +193,10 @@ This is an unofficial, fan made remix album. No copyright infringement or offens
     
     <item>
       <title>&#39;jekyll: command not found&#39; in post-receive hook</title>
-      <link>https://feelydj.github.io/blog/post/2012-05-02-jekyll-post-receive/</link>
+      <link>https://feelydj.github.io/post/2012-05-02-jekyll-post-receive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-05-02-jekyll-post-receive/</guid>
+      <guid>https://feelydj.github.io/post/2012-05-02-jekyll-post-receive/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m trying to set up my server so that I can edit blog posts locally and push them to a bare Git repository on my server, which will auto-publish the changes with Jekyll. I&amp;rsquo;m using a post-receive hook to do this.&lt;/p&gt;
 
 &lt;p&gt;I was getting a weird error that I was stuck on for a couple of hours. Ruby is installed on the server under RVM, and Jekyll is installed as a Gem. I added RVM to my PATH in .bashrc and the &lt;code&gt;jekyll&lt;/code&gt; command worked fine from the command line. So I added a post-receive script that would do some magic and run Jekyll to generate the new site from the updated Git repository after it receives a push. But when I pushed from my local machine, I was getting the error &lt;code&gt;jekyll: command not found&lt;/code&gt; from the post-receive script.&lt;/p&gt;
@@ -207,10 +207,10 @@ This is an unofficial, fan made remix album. No copyright infringement or offens
     
     <item>
       <title>2012-02-11 quote</title>
-      <link>https://feelydj.github.io/blog/post/2012-02-11-quote-richard-m-stallman/</link>
+      <link>https://feelydj.github.io/post/2012-02-11-quote-richard-m-stallman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-02-11-quote-richard-m-stallman/</guid>
+      <guid>https://feelydj.github.io/post/2012-02-11-quote-richard-m-stallman/</guid>
       <description>&lt;div class = &#34;quote&#34;&gt;
 Why is it bad to use an unauthorized copy of a proprietary program?
 Because it’s proprietary! So an unauthorized copy is almost as nasty as an
@@ -233,10 +233,10 @@ million dollars and throw away the program, then I would say yes.
     
     <item>
       <title>2012-04-08 quote</title>
-      <link>https://feelydj.github.io/blog/post/2012-04-08-quote-of-the-week/</link>
+      <link>https://feelydj.github.io/post/2012-04-08-quote-of-the-week/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-04-08-quote-of-the-week/</guid>
+      <guid>https://feelydj.github.io/post/2012-04-08-quote-of-the-week/</guid>
       <description>&lt;p&gt;&lt;blockquote style = &#34;font-size: 150%&#34;&gt;
 If you still need more motivation for writing, documenting, or promoting Free Software, you probably have not been at FOSDEM.
 &lt;/blockquote&gt;
@@ -247,10 +247,10 @@ If you still need more motivation for writing, documenting, or promoting Free So
     
     <item>
       <title>2012-04-30 quote</title>
-      <link>https://feelydj.github.io/blog/post/2012-04-30-quote-daniel-markham/</link>
+      <link>https://feelydj.github.io/post/2012-04-30-quote-daniel-markham/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-04-30-quote-daniel-markham/</guid>
+      <guid>https://feelydj.github.io/post/2012-04-30-quote-daniel-markham/</guid>
       <description>&lt;div class=&#34;quote&#34;&gt;
 You shouldn&#39;t be trying to write an encyclopedia. Every post shouldn&#39;t be a special snowflake. Instead you should be letting it all hang out and letting the system do it&#39;s job.
 &lt;/div&gt;
@@ -264,10 +264,10 @@ You shouldn&#39;t be trying to write an encyclopedia. Every post shouldn&#39;t b
     
     <item>
       <title>2012-08-04 quote</title>
-      <link>https://feelydj.github.io/blog/post/2012-08-04-quote-john-crichton/</link>
+      <link>https://feelydj.github.io/post/2012-08-04-quote-john-crichton/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-08-04-quote-john-crichton/</guid>
+      <guid>https://feelydj.github.io/post/2012-08-04-quote-john-crichton/</guid>
       <description>&lt;div class=&#34;quote&#34;&gt;
 Well, you know, I try to save a life a day. Usually it&#39;s my own...
 &lt;/div&gt;
@@ -279,10 +279,10 @@ Well, you know, I try to save a life a day. Usually it&#39;s my own...
     
     <item>
       <title>2012-09-09 quote</title>
-      <link>https://feelydj.github.io/blog/post/2012-09-09-quote/</link>
+      <link>https://feelydj.github.io/post/2012-09-09-quote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-09-09-quote/</guid>
+      <guid>https://feelydj.github.io/post/2012-09-09-quote/</guid>
       <description>&lt;div class=&#34;quote&#34;&gt;
 After this work, Left 4 Dead 2 is running at 315 FPS on Linux. That the Linux version runs faster than the Windows version (270.6) seems a little counter-intuitive, given the greater amount of time we have spent on the Windows version. However, it does speak to the underlying efficiency of the kernel and OpenGL.
 &lt;/div&gt;
@@ -294,10 +294,10 @@ After this work, Left 4 Dead 2 is running at 315 FPS on Linux. That the Linux ve
     
     <item>
       <title>2012-12-21 links</title>
-      <link>https://feelydj.github.io/blog/post/2012-12-21-links-and-notes/</link>
+      <link>https://feelydj.github.io/post/2012-12-21-links-and-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-12-21-links-and-notes/</guid>
+      <guid>https://feelydj.github.io/post/2012-12-21-links-and-notes/</guid>
       <description>&lt;p&gt;A collection of links from the last week or so. Stuff you might have missed that I think is awesome, and stuff you will have no interest in.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://gamasutra.com/blogs/AndrewGrapsas/20121207/183132/Stupid_Simple_Code.php&#34;&gt;Are you a Lone Wolf programmer?&lt;/a&gt;&lt;br&gt;
@@ -311,10 +311,10 @@ After this work, Left 4 Dead 2 is running at 315 FPS on Linux. That the Linux ve
     
     <item>
       <title>2013-01-08 links</title>
-      <link>https://feelydj.github.io/blog/post/2013-01-08-notes/</link>
+      <link>https://feelydj.github.io/post/2013-01-08-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2013-01-08-notes/</guid>
+      <guid>https://feelydj.github.io/post/2013-01-08-notes/</guid>
       <description>&lt;p&gt;Some more links from the last couple of weeks. I have over 1000 unread in my feed so some of these are a bit old!&lt;/p&gt;
 
 &lt;ul&gt;
@@ -331,10 +331,10 @@ After this work, Left 4 Dead 2 is running at 315 FPS on Linux. That the Linux ve
     
     <item>
       <title>2013-01-20 links</title>
-      <link>https://feelydj.github.io/blog/post/2013-01-20-links/</link>
+      <link>https://feelydj.github.io/post/2013-01-20-links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2013-01-20-links/</guid>
+      <guid>https://feelydj.github.io/post/2013-01-20-links/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Even though I already have my own hosted VPS, &lt;a href=&#34;http://ostatic.com/blog/one-server-per-person#buzz&#34;&gt;this article on OStatic&lt;/a&gt; makes me wonder whether I should invest in a physical one at some point&lt;br/&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.gamasutra.com/blogs/JavierCabrera/20130103/184268/Why_You_Need_to_Drop_SteamXBOXLive_and_Develop_for_the_OUYA.php&#34;&gt;Start developing for OUYA!&lt;/a&gt;&lt;br/&gt;&lt;/li&gt;
@@ -345,10 +345,10 @@ After this work, Left 4 Dead 2 is running at 315 FPS on Linux. That the Linux ve
     
     <item>
       <title>2013-02-03 &#34;quote&#34;</title>
-      <link>https://feelydj.github.io/blog/post/2013-02-03-quote/</link>
+      <link>https://feelydj.github.io/post/2013-02-03-quote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2013-02-03-quote/</guid>
+      <guid>https://feelydj.github.io/post/2013-02-03-quote/</guid>
       <description>&lt;div class=&#34;quote&#34;&gt;
 I&#39;d like to say a few words about traditional college grading. I&#39;m sick of it. We&#39;re obsessed with grades because we&#39;re obsessed with data. And yet grading takes away all the fun from failing. And a huge part about education is about failing. Courage, according to Churchill, is the ability to go from one defeat to another without losing enthusiasm.
 &lt;/div&gt;
@@ -360,10 +360,10 @@ I&#39;d like to say a few words about traditional college grading. I&#39;m sick 
     
     <item>
       <title>2013-03-21 quote</title>
-      <link>https://feelydj.github.io/blog/post/2013-03-21-quote/</link>
+      <link>https://feelydj.github.io/post/2013-03-21-quote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2013-03-21-quote/</guid>
+      <guid>https://feelydj.github.io/post/2013-03-21-quote/</guid>
       <description>&lt;div class=&#34;quote&#34;&gt;
 Kratos the furious demi-god, a man defined by violence and psychologically
 jammed in that moment of aggressive self-belief right before a post-pub
@@ -378,10 +378,10 @@ ancient Greece. It goes without saying that it’s great to have him back.
     
     <item>
       <title>2013-12-01 links</title>
-      <link>https://feelydj.github.io/blog/post/2013-12-01-links/</link>
+      <link>https://feelydj.github.io/post/2013-12-01-links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2013-12-01-links/</guid>
+      <guid>https://feelydj.github.io/post/2013-12-01-links/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arkos.io/&#34;&gt;ArkOS&lt;/a&gt;, distro that runs on Raspberry Pi and provides web services to replace all of Google&amp;rsquo;s&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ghost.org/&#34;&gt;Ghost&lt;/a&gt;, blogging platform. Apparently it&amp;rsquo;s like Wordpress but more stripped down. Not so easy to install at the moment unfortunately. Looks nice, tho.&lt;/li&gt;
@@ -391,10 +391,10 @@ ancient Greece. It goes without saying that it’s great to have him back.
     
     <item>
       <title>2013-12-08 links</title>
-      <link>https://feelydj.github.io/blog/post/2013-12-08-links/</link>
+      <link>https://feelydj.github.io/post/2013-12-08-links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2013-12-08-links/</guid>
+      <guid>https://feelydj.github.io/post/2013-12-08-links/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://esr.ibiblio.org/?p=5125&#34;&gt;ESR ready to ship Shipper&lt;/a&gt;, automating everything&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.polygon.com/features/2013/12/2/5143856/no-girls-allowed&#34;&gt;Long, enlightening article&lt;/a&gt; about how games have been marketed through the years, and towards which demographics. &lt;em&gt;&amp;ldquo;Given enough money, I could make guys buy tampons,&amp;rdquo; says Roeser. &amp;ldquo;I mean, I could figure out something to do with them. It all comes down to how somebody like me, and there&amp;rsquo;s frighteningly thousands of me across the country and the world, creates a campaign that specifically targets an audience.&amp;rdquo; Roeser believes that if the makers of Call of Duty came to him and said they wanted to pursue the female market, it could be done. It would just be a matter of making the message appealing to women and reaching them through the right channels.&lt;/em&gt;&lt;/li&gt;
@@ -405,10 +405,10 @@ ancient Greece. It goes without saying that it’s great to have him back.
     
     <item>
       <title>2013-12-17 links</title>
-      <link>https://feelydj.github.io/blog/post/2013-12-17-links/</link>
+      <link>https://feelydj.github.io/post/2013-12-17-links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2013-12-17-links/</guid>
+      <guid>https://feelydj.github.io/post/2013-12-17-links/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Some interesting-looking &lt;a href=&#34;http://sivers.org/ws&#34;&gt;stuff&lt;/a&gt; made public by Derek Sivers&lt;/li&gt;
 &lt;li&gt;These &lt;a href=&#34;http://www.lunchbots.com&#34;&gt;non-plastic lunchboxes&lt;/a&gt; look so cool!&lt;/li&gt;
@@ -419,10 +419,10 @@ ancient Greece. It goes without saying that it’s great to have him back.
     
     <item>
       <title>2014-10-12 quote</title>
-      <link>https://feelydj.github.io/blog/post/2014-10-12-quote-minecraft/</link>
+      <link>https://feelydj.github.io/post/2014-10-12-quote-minecraft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-10-12-quote-minecraft/</guid>
+      <guid>https://feelydj.github.io/post/2014-10-12-quote-minecraft/</guid>
       <description>&lt;div class = &#34;quote&#34;&gt;
 &lt;p&gt;So, what about Minecraft&#39;s future? From Microsoft&#39;s announcement:&lt;/p&gt;
 
@@ -448,10 +448,10 @@ Minecraft fans are loyal, with nearly 90 percent of paid customers on the PC hav
     
     <item>
       <title>2014-12-18 quote</title>
-      <link>https://feelydj.github.io/blog/post/2014-12-18-quote-st-vincent/</link>
+      <link>https://feelydj.github.io/post/2014-12-18-quote-st-vincent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-12-18-quote-st-vincent/</guid>
+      <guid>https://feelydj.github.io/post/2014-12-18-quote-st-vincent/</guid>
       <description>&lt;div class = &#34;quote&#34;&gt;
 Entombed in the shrine of zeros and ones
 &lt;/div&gt;
@@ -466,10 +466,10 @@ Entombed in the shrine of zeros and ones
     
     <item>
       <title>2015-04018 quote</title>
-      <link>https://feelydj.github.io/blog/post/2015-04-18-quote/</link>
+      <link>https://feelydj.github.io/post/2015-04-18-quote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2015-04-18-quote/</guid>
+      <guid>https://feelydj.github.io/post/2015-04-18-quote/</guid>
       <description>&lt;div class = &#34;quote&#34;&gt;
 &lt;p&gt;I tried to dance but lost my nerve&lt;/p&gt;
 &lt;p&gt;I cramped up in the learning curve&lt;/p&gt;
@@ -485,10 +485,10 @@ Entombed in the shrine of zeros and ones
     
     <item>
       <title>Adding Android-x86 entry to grub2</title>
-      <link>https://feelydj.github.io/blog/post/2012-03-10-adding-android-x86-entry-to-grub2/</link>
+      <link>https://feelydj.github.io/post/2012-03-10-adding-android-x86-entry-to-grub2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-03-10-adding-android-x86-entry-to-grub2/</guid>
+      <guid>https://feelydj.github.io/post/2012-03-10-adding-android-x86-entry-to-grub2/</guid>
       <description>&lt;p&gt;I decided I want to try Linux Mint 12 LXDE on my netbook, but &lt;a href=&#34;http://feedelli.org/android-x86-ics-rc1-review&#34;&gt;keep Android for convenience&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I installed Mint and Android on separate partitions but of course Mint doesn&amp;rsquo;t show Grub at boot by default, and grub-update doesn&amp;rsquo;t detect Android.&lt;/p&gt;
@@ -521,11 +521,11 @@ menuentry &amp;quot;Android&amp;quot; {
     
     <item>
       <title>Android on my Samsung N110 netbook</title>
-      <link>https://feelydj.github.io/blog/post/2012-03-03-android-on-my-samsung-n110-netbook/</link>
+      <link>https://feelydj.github.io/post/2012-03-03-android-on-my-samsung-n110-netbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-03-03-android-on-my-samsung-n110-netbook/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/android-netbook.JPG&#34; alt=&#34;my netbook running Android&#34; /&gt;&lt;/p&gt;
+      <guid>https://feelydj.github.io/post/2012-03-03-android-on-my-samsung-n110-netbook/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/android-netbook.JPG&#34; alt=&#34;my netbook running Android&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;I&amp;rsquo;m writing this on what feels like my brand-spanking new Android netbook. Talk about breathing new life into old hardware - this is really awesome.&lt;/b&gt;&lt;/p&gt;
 
@@ -545,11 +545,11 @@ menuentry &amp;quot;Android&amp;quot; {
     
     <item>
       <title>Android-x86 ICS RC1 review</title>
-      <link>https://feelydj.github.io/blog/post/2012-03-06-android-x86-ics-rc1-review/</link>
+      <link>https://feelydj.github.io/post/2012-03-06-android-x86-ics-rc1-review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-03-06-android-x86-ics-rc1-review/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/androidx86-review.JPG&#34; alt=&#34;Google Music on Android netbook&#34; /&gt;&lt;/p&gt;
+      <guid>https://feelydj.github.io/post/2012-03-06-android-x86-ics-rc1-review/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/androidx86-review.JPG&#34; alt=&#34;Google Music on Android netbook&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;I’ve been using Ice Cream Sandwich RC1 on my Samsung N110 netbook for a few days now, and would like to give a rundown of how it works.&lt;/strong&gt;&lt;/p&gt;
 
@@ -577,10 +577,10 @@ menuentry &amp;quot;Android&amp;quot; {
     
     <item>
       <title>Awesome WM and WWII theme on Ubuntu or Linux Mint</title>
-      <link>https://feelydj.github.io/blog/post/2012-03-21-awesome-wm-and-wwii-theme-on-ubuntu-or-linux-mint/</link>
+      <link>https://feelydj.github.io/post/2012-03-21-awesome-wm-and-wwii-theme-on-ubuntu-or-linux-mint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-03-21-awesome-wm-and-wwii-theme-on-ubuntu-or-linux-mint/</guid>
+      <guid>https://feelydj.github.io/post/2012-03-21-awesome-wm-and-wwii-theme-on-ubuntu-or-linux-mint/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve recently discovered the &lt;a href = &#34;http://awesome.naquadah.org/&#34;&gt;Awesome window manager&lt;/a&gt; and so far it&amp;rsquo;s really living up to its name. It&amp;rsquo;s one of those things that when you start using it you can&amp;rsquo;t imagine ever doing without it. It&amp;rsquo;s like the vim of window management - super fast, highly customisable, and just so&amp;hellip; smart.
 I saw this on the Awesome themes page and thought it looked gorgeous:&lt;/p&gt;
 
@@ -632,11 +632,11 @@ Again, you need to Win + Ctrl + r to see if it worked&lt;/p&gt;
     
     <item>
       <title>Awesome WM and dual monitors</title>
-      <link>https://feelydj.github.io/blog/post/2012-04-07-awesome-wm-and-dual-monitors/</link>
+      <link>https://feelydj.github.io/post/2012-04-07-awesome-wm-and-dual-monitors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-04-07-awesome-wm-and-dual-monitors/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/awesome-dual-monitors.JPG&#34; alt=&#34;Awesome and two monitors&#34; /&gt;&lt;/p&gt;
+      <guid>https://feelydj.github.io/post/2012-04-07-awesome-wm-and-dual-monitors/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/awesome-dual-monitors.JPG&#34; alt=&#34;Awesome and two monitors&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I recently set up a second monitor on my machine.&lt;/p&gt;
 
@@ -658,10 +658,10 @@ Again, you need to Win + Ctrl + r to see if it worked&lt;/p&gt;
     
     <item>
       <title>Bash / command line pomodoro timer</title>
-      <link>https://feelydj.github.io/blog/post/2012-07-29-bash-command-line-pomodoro-timer/</link>
+      <link>https://feelydj.github.io/post/2012-07-29-bash-command-line-pomodoro-timer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-07-29-bash-command-line-pomodoro-timer/</guid>
+      <guid>https://feelydj.github.io/post/2012-07-29-bash-command-line-pomodoro-timer/</guid>
       <description>&lt;p&gt;I use the &lt;a href=&#34;http://en.wikipedia.org/wiki/Pomodoro_Technique&#34;&gt;Pomodoro Technique&lt;/a&gt; a lot when I&amp;rsquo;m at home. I find it really useful to not only make sure I get stuff done, but to make sure I take regular breaks and get &lt;em&gt;other&lt;/em&gt; stuff done, like housework and exercise.&lt;/p&gt;
 
 &lt;p&gt;I used to use a 25 minute timer on my digital watch, which kinda died this weekend. There are Android apps, but I find they&amp;rsquo;re not as immediate and don&amp;rsquo;t work as well. I realised I needed a timer that would run in a terminal, since I spend so much time there anyway.&lt;/p&gt;
@@ -689,7 +689,7 @@ Again, you need to Win + Ctrl + r to see if it worked&lt;/p&gt;
 
 &lt;p&gt;So now I type pomo into a terminal and get a 25 minute timer, complete with &lt;code&gt;notify-send&lt;/code&gt; notifications, which look particularly pretty in &lt;a href=&#34;http://feedelli.org/2012/03/21/awesome-wm-and-wwii-theme-on-ubuntu-or-linux-mint.html&#34;&gt;my Awesome theme&lt;/a&gt; I adjusted the display time of these to my liking.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/2012-07-29/pomodoro.png&#34; alt=&#34;pomodoro timer notifications&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/2012-07-29/pomodoro.png&#34; alt=&#34;pomodoro timer notifications&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Roll on the productivity.&lt;/p&gt;
 </description>
@@ -697,26 +697,26 @@ Again, you need to Win + Ctrl + r to see if it worked&lt;/p&gt;
     
     <item>
       <title>Changing the default browser in Gnome 3</title>
-      <link>https://feelydj.github.io/blog/post/2012-01-26-changing-the-default-browser-in-gnome-3/</link>
+      <link>https://feelydj.github.io/post/2012-01-26-changing-the-default-browser-in-gnome-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-01-26-changing-the-default-browser-in-gnome-3/</guid>
+      <guid>https://feelydj.github.io/post/2012-01-26-changing-the-default-browser-in-gnome-3/</guid>
       <description>&lt;p&gt;Sometimes with Linux, and especially Arch, you get so into trying to find a solution to a small problem that&amp;rsquo;s annoying you that when you finally find the answer it can be so obvious it makes you feel a bit stupid. You&amp;rsquo;re usually in a forum somewhere on your 100th googling.&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;d spent about an hour altogether with my Arch box trying to make Chromium the default browser. For some reason links from the terminal were opening in Firefox. I was messing around with ~/.xinitrc, exports, xdg-open and all kinds of things, but to no avail. I finally found a &lt;a href = &#34;https://bbs.archlinux.org/viewtopic.php?id=118422&#34;&gt;short, self-answered post&lt;/a&gt; with the solution.&lt;/p&gt;
 
 &lt;p&gt;Changing the default browser in Arch was as simple as opening up the System Info application and clicking Default Browser. Admittedly, this is not the first place you would think to look when trying to change a major setting like this, but that&amp;rsquo;s where it is, and still made me feel like I&amp;rsquo;d wasted an hour hacking about.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/gnome-default-browser.png&#34; alt=&#34;System Info&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/gnome-default-browser.png&#34; alt=&#34;System Info&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Drake: Take Care</title>
-      <link>https://feelydj.github.io/blog/post/2011-11-29-drake-take-care/</link>
+      <link>https://feelydj.github.io/post/2011-11-29-drake-take-care/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2011-11-29-drake-take-care/</guid>
+      <guid>https://feelydj.github.io/post/2011-11-29-drake-take-care/</guid>
       <description>&lt;p&gt;This is a great album. The thing that strikes you most about Take Care is the confidence and the fresh style that compliments Drake&amp;rsquo;s flow, where before he sounded awkward and ropey. This sounds modern and REALLY cool.&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s not throwaway either. It&amp;rsquo;s full of catchy, clever lyrics from the get-go. Then there&amp;rsquo;re monologues, from Drake himself and distant disembodied voices, which wouldn&amp;rsquo;t be out of place on one of the Manics&amp;rsquo; bleaker records, but sonically giving the album a feel closer to something by Burial or Jamie XX.&lt;/p&gt;
@@ -741,10 +741,10 @@ Again, you need to Win + Ctrl + r to see if it worked&lt;/p&gt;
     
     <item>
       <title>Fabien Sanglard&#39;s code review of Git</title>
-      <link>https://feelydj.github.io/blog/post/2014-05-01-fabien-sanglard-git-code-review/</link>
+      <link>https://feelydj.github.io/post/2014-05-01-fabien-sanglard-git-code-review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-05-01-fabien-sanglard-git-code-review/</guid>
+      <guid>https://feelydj.github.io/post/2014-05-01-fabien-sanglard-git-code-review/</guid>
       <description>&lt;p&gt;I really like Fabien Sanglard&amp;rsquo;s code reviews, even tho I don&amp;rsquo;t normally get
 very far before it gets beyond my comprehension.&lt;/p&gt;
 
@@ -755,15 +755,15 @@ it&amp;rsquo;s on Git.&lt;/p&gt;
     
     <item>
       <title>Gnome: &#34;oops, I ruined your life!&#34;</title>
-      <link>https://feelydj.github.io/blog/post/2012-01-24-gnome-oops-i-ruined-your-life/</link>
+      <link>https://feelydj.github.io/post/2012-01-24-gnome-oops-i-ruined-your-life/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-01-24-gnome-oops-i-ruined-your-life/</guid>
+      <guid>https://feelydj.github.io/post/2012-01-24-gnome-oops-i-ruined-your-life/</guid>
       <description>&lt;p&gt;Looks like Gnome have made their own attempt at a cutesy &amp;ldquo;oops&amp;rdquo; message, as seems to be the trend now.&lt;/p&gt;
 
 &lt;p&gt;While messing around with Gnome&amp;rsquo;s css style and using Alt-F2 and r to reset the decoration, &amp;ldquo;something went wrong&amp;rdquo; and I got a computer with a sad face on it saying &amp;ldquo;Oh no!&amp;rdquo;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/gnome-oops.jpg&#34; alt=&#34;Gnome oops&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/gnome-oops.jpg&#34; alt=&#34;Gnome oops&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I don&amp;rsquo;t find it that annoying, though. It&amp;rsquo;s endearing as kind of failed attempt at being hip like a Google product or something. Gnome&amp;rsquo;s just not quite there yet.&lt;/p&gt;
 
@@ -773,13 +773,13 @@ it&amp;rsquo;s on Git.&lt;/p&gt;
     
     <item>
       <title>Grail</title>
-      <link>https://feelydj.github.io/blog/post/2012-04-08-grail/</link>
+      <link>https://feelydj.github.io/post/2012-04-08-grail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-04-08-grail/</guid>
+      <guid>https://feelydj.github.io/post/2012-04-08-grail/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been working on and off over the last few months on a really fun and interesting project called &lt;a href = &#34;http://leetless.de/grail.html&#34;&gt;Grail&lt;/a&gt; by &lt;a href = &#34;http://leetless.de/blog.html&#34;&gt;Droggl&lt;/a&gt;. It&amp;rsquo;s an open-source engine for writing point-and-click adventure games.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/grail.png&#34; alt=&#34;Grail&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/grail.png&#34; alt=&#34;Grail&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I don&amp;rsquo;t know if you&amp;rsquo;ve ever tried to find an engine for writing a 2D point-and-click adventure that&amp;rsquo;s open-source and cross-platform, but they&amp;rsquo;re hard to come by! Grail is going to fill that gap. It&amp;rsquo;s exactly what I was looking for.&lt;/p&gt;
 
@@ -793,10 +793,10 @@ it&amp;rsquo;s on Git.&lt;/p&gt;
     
     <item>
       <title>Irssi and notifications in Gnome 3/Shell</title>
-      <link>https://feelydj.github.io/blog/post/2011-12-18-irssi-and-notifications-in-gnome-3-shell/</link>
+      <link>https://feelydj.github.io/post/2011-12-18-irssi-and-notifications-in-gnome-3-shell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2011-12-18-irssi-and-notifications-in-gnome-3-shell/</guid>
+      <guid>https://feelydj.github.io/post/2011-12-18-irssi-and-notifications-in-gnome-3-shell/</guid>
       <description>&lt;p&gt;I decided to switch over full time to &lt;a href=&#34;http://irssi.org/&#34;&gt;Irssi&lt;/a&gt;, as Xchat and Xchat-gnome on Gnome 3 had become too frustrating.&lt;/p&gt;
 
 &lt;p&gt;I installed the package from the Mint repos. Irssi is terminal-based IRC client, so the first thing I wanted was to enable notifications. Some Googling led me to &lt;a href=&#34;http://code.google.com/p/irssi-libnotify/&#34;&gt;this script&lt;/a&gt;.&lt;/p&gt;
@@ -838,7 +838,7 @@ it&amp;rsquo;s on Git.&lt;/p&gt;
 
 &lt;p&gt;The last thing I wanted to do was change the icon that displayed in the notification area from the default Gnome light bulb. I got the Irssi logo from their site and whipped out the Gimp. By removing the text part of the logo and changing the colour of the flame (the black wasn&amp;rsquo;t showing up on the notification background) I was left with this&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/custom_irssi_logo.png&#34; alt=&#34;custom Irssi logo&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/custom_irssi_logo.png&#34; alt=&#34;custom Irssi logo&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I created an icons directory in /user/share/irssi/ and put this in there as icon.png.&lt;/p&gt;
 
@@ -856,7 +856,7 @@ it&amp;rsquo;s on Git.&lt;/p&gt;
 
 &lt;p&gt;The new icon looks really cool:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/irssi_icon.png&#34; alt=&#34;new icon in action&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/irssi_icon.png&#34; alt=&#34;new icon in action&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;You can find more info on configuring Irssi at &lt;a href=&#34;https://wiki.archlinux.org/index.php/Irssi&#34;&gt;ArchWiki&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -864,10 +864,10 @@ it&amp;rsquo;s on Git.&lt;/p&gt;
     
     <item>
       <title>Jekyll</title>
-      <link>https://feelydj.github.io/blog/post/2012-04-30-jekyll/</link>
+      <link>https://feelydj.github.io/post/2012-04-30-jekyll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-04-30-jekyll/</guid>
+      <guid>https://feelydj.github.io/post/2012-04-30-jekyll/</guid>
       <description>&lt;p&gt;I decided that Drupal is too big and awkward for my blog, and I&amp;rsquo;ve been wanting to try something new. Drupal was eating up a lot of the RAM on my 512MB server, even after hours spent trying to optimise it. Also, the updates and module updates for Drupal 7 seem endless. &lt;a href = &#34;http://www.garron.me/blog/multi-blog-site-jekyll.html&#34;&gt;Guillermo Garron&lt;/a&gt; pointed me towards &lt;a href = &#34;http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html&#34;&gt;blogging like a hacker&lt;/a&gt;. This post totally sold me on Jekyll. I&amp;rsquo;ve probably heard about Jekyll before more than once, but the name kind of blended into a mush of other quirkily-named new technologies trendy web developers rave about. This post really made it sound like something that would be useful to me, though.&lt;/p&gt;
 
 &lt;p&gt;Good points:&lt;/p&gt;
@@ -891,10 +891,10 @@ it&amp;rsquo;s on Git.&lt;/p&gt;
     
     <item>
       <title>Kupfer! rocks!</title>
-      <link>https://feelydj.github.io/blog/post/2012-08-04-kupfer-rocks/</link>
+      <link>https://feelydj.github.io/post/2012-08-04-kupfer-rocks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-08-04-kupfer-rocks/</guid>
+      <guid>https://feelydj.github.io/post/2012-08-04-kupfer-rocks/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been trying out Kupfer for a few days now. I heard about it from the guys at the &lt;a href=&#34;http://linuxbasix.com/tiki-index.php?page=Linuxbasix%20Podcast%20Shownotes&amp;amp;pagenum=15#Episode_104_-_Ubuntu_12.04_Backup_Restore_MBR_w_Ubuntu_Disk_Utility_great_for_v_iew_all_hd_details_Kupfer_Rocks_Real-Time_MOnitoring_Tool_under_Ubuntu&#34;&gt;Linuxbasix&lt;/a&gt; podcast. They gave an empassioned recommendation for this application launcher, but I couldn&amp;rsquo;t make out what exactly what it was called or how it was spelled. If they gave the spelling, I didn&amp;rsquo;t hear it and didn&amp;rsquo;t go back to check because I was driving. Anyway I found the launcher.&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s spelled Kupfer! with an exclamation mark. And it is great. I was never really happy with Awesome&amp;rsquo;s Command-R run prompt. Sure, it was predictive, but you had to start from the beginning. For example, you want &lt;code&gt;gnome-screenshot&lt;/code&gt;, you can&amp;rsquo;t just type &lt;code&gt;screenshot&lt;/code&gt; and expect to get the app you&amp;rsquo;re looking for.&lt;/p&gt;
@@ -903,7 +903,7 @@ it&amp;rsquo;s on Git.&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s apparently desktop-agnostic, which is probably why it fits in so well with Awesome. It sits up in the system tray (I don&amp;rsquo;t know why, but in Awesome, nothing looks out of place in the system tray). I&amp;rsquo;ve removed the shortcut key for the Awesome run prompt and instead mapped Command-R to open the Kupfer! prompt.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/2012-08-04/kupfer.png&#34; alt=&#34;kupfer! in the Awesome system tray&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/2012-08-04/kupfer.png&#34; alt=&#34;kupfer! in the Awesome system tray&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Apparently Kupfer! learns your preferences and all that. I&amp;rsquo;m loving it so far, but I&amp;rsquo;ll give a more in-dept run-down of how I like it soon.&lt;/p&gt;
 
@@ -921,10 +921,10 @@ it&amp;rsquo;s on Git.&lt;/p&gt;
     
     <item>
       <title>Lee Vermeulen on VR</title>
-      <link>https://feelydj.github.io/blog/post/2014-04-24-lee-vermeulen-vr/</link>
+      <link>https://feelydj.github.io/post/2014-04-24-lee-vermeulen-vr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-04-24-lee-vermeulen-vr/</guid>
+      <guid>https://feelydj.github.io/post/2014-04-24-lee-vermeulen-vr/</guid>
       <description>&lt;div class = &#34;quote&#34;&gt;
 After the demo was over I talked to the Valve employee for a few minutes afterwards about the tech. And while standing and in the middle of a sentence, I had an incredibly strange weird moment of comparing real life to the VR. I understood that the demo was over, but it was if a lower level part of my mind couldn’t exactly be sure. It give me a very weird existential dread of my entire situation, and the only way I could get rid of that feeling was to walk around or touch things around me (or sit down, basically just get in a situation where I wasn’t just standing still like I was in the VR demo). I tried to walk it off but alcohol was really the only thing that made me shake the feeling completely. Unfortunately since I had to get away from the Valve employee having a bit of a existential crisis because of this I wasn’t able to actually discuss it with him.
 &lt;/div&gt;
@@ -936,10 +936,10 @@ After the demo was over I talked to the Valve employee for a few minutes afterwa
     
     <item>
       <title>Links to recipes</title>
-      <link>https://feelydj.github.io/blog/post/2014-12-29-recipes/</link>
+      <link>https://feelydj.github.io/post/2014-12-29-recipes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-12-29-recipes/</guid>
+      <guid>https://feelydj.github.io/post/2014-12-29-recipes/</guid>
       <description>
 
 &lt;p&gt;&lt;a href=&#34;http://www.bbc.co.uk/food/recipes/shepherdspiewithspic_83899&#34;&gt;Shepherd&amp;rsquo;s Pie with spiced parsnip mash&lt;/a&gt;&lt;/p&gt;
@@ -984,15 +984,15 @@ After the demo was over I talked to the Valve employee for a few minutes afterwa
     
     <item>
       <title>Linux Mint 12</title>
-      <link>https://feelydj.github.io/blog/post/2011-12-08-linux-mint-12/</link>
+      <link>https://feelydj.github.io/post/2011-12-08-linux-mint-12/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2011-12-08-linux-mint-12/</guid>
+      <guid>https://feelydj.github.io/post/2011-12-08-linux-mint-12/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been using Mint 12 for a couple of weeks now.&lt;/p&gt;
 
 &lt;p&gt;It was exciting to install as I&amp;rsquo;d read a lot about how good it was, even if a lot of the news articles and &amp;ldquo;reviews&amp;rdquo; had started to sound a bit forced and repetitive. The general theme of these was &amp;ldquo;The Mint team have done it again&amp;rdquo; and &amp;ldquo;Mint 12 branches into new territory while retaining that polished Mint feel&amp;rdquo;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/mint-screen1.png&#34; alt=&#34;Gnome 3 Linux Mint 12&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/mint-screen1.png&#34; alt=&#34;Gnome 3 Linux Mint 12&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I don&amp;rsquo;t agree with this. Mint 12, on first impression, doesn&amp;rsquo;t feel polished at all.&lt;/p&gt;
 
@@ -1002,7 +1002,7 @@ After the demo was over I talked to the Valve employee for a few minutes afterwa
 
 &lt;p&gt;Turning off all the Mint extensions (admittedly due to frustration) gave me a supposedly vanilla Gnome 3 experience. I tried Gnome 3 on Fedora a few months ago and was horrified by how unfinished it looked. With Mint, Gnome 3 is quite nice. The swipe to the top left corner to switch applications feels really natural and quick. There are still some niggling annoyances resulting from the transition from Gnome 2.x. Most of these have to do with notifications. Xchat bubbles, for example, pile up at the bottom of the screen until you acknowledge them. Most of these problems can be worked around and will surely be fixed soon.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/mint-screen2.png&#34; alt=&#34;Gnome 3 Linux Mint 12&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/mint-screen2.png&#34; alt=&#34;Gnome 3 Linux Mint 12&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Overall Mint 12 has proven to be a bit disappointing. I think it should have been delayed a bit to make it more polished and stable, instead of what seems like a rushed release to ride the wave of hype generated by Unity deserters. Time will soon tell if it can be improved and match up to it&amp;rsquo;s predecessors.&lt;/p&gt;
 
@@ -1012,10 +1012,10 @@ After the demo was over I talked to the Valve employee for a few minutes afterwa
     
     <item>
       <title>Linux games: Dead Cyborg Episode 1</title>
-      <link>https://feelydj.github.io/blog/post/2012-01-29-linux-games-dead-cyborg-episode-1/</link>
+      <link>https://feelydj.github.io/post/2012-01-29-linux-games-dead-cyborg-episode-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-01-29-linux-games-dead-cyborg-episode-1/</guid>
+      <guid>https://feelydj.github.io/post/2012-01-29-linux-games-dead-cyborg-episode-1/</guid>
       <description>&lt;p&gt;&lt;b&gt;Endre Barath&amp;rsquo;s Dead Cyborg is a first-person puzzle adventure game based on a free, donation-based model.&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s not open-source, but it runs perfectly on Linux.&lt;/p&gt;
@@ -1024,7 +1024,7 @@ After the demo was over I talked to the Valve employee for a few minutes afterwa
 
 &lt;p&gt;You start the game waking up in some sort of cryogenic freezer, not knowing who you are or how you got there. As you advance you read messages left behind by your colleagues who had ventured out of their capsules some time earlier, before their deaths at various stages along the way due to radiation posioning. Of course, they somehow managed to lock all the doors behind them and un-solve all of the puzzles. Ah well. The atmosphere is somewhere between quirky and grim.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/dead-cyborg-2.png&#34; alt=&#34;Dead Cyborg&#39;s impressive grapics&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/dead-cyborg-2.png&#34; alt=&#34;Dead Cyborg&#39;s impressive grapics&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It looks gorgeous. The graphics are detailed, there&amp;rsquo;s a consistent visual style, and there&amp;rsquo;s a nice big font for dialog. The animations are few but quite nice. You can tell a lot of time and care has gone into crafting the game world.&lt;/p&gt;
 
@@ -1032,7 +1032,7 @@ After the demo was over I talked to the Valve employee for a few minutes afterwa
 
 &lt;p&gt;This isn&amp;rsquo;t necessarily a bad dynamic, though. Since the first &lt;i&gt;Resident Evil&lt;/i&gt; clones in the late 90&amp;rsquo;s, games of this type have been criticised as badly-designed because of the illogic of the puzzles. Games like &lt;i&gt;Ico&lt;/i&gt;, and more recently the &lt;i&gt;Uncharted&lt;/i&gt; series, wind the puzzles into the experience and game world so tightly that the player knows exactly what they have to do in a situation, and the gratification comes in finding a logical solution. But it&amp;rsquo;s a testament to Dead Cyborg&amp;rsquo;s &amp;ldquo;find keycard A to put in lock B&amp;rdquo; style of gameplay that it survives today and can still serve up an addictive and rewarding experience such as this.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/dead-cyborg-3.png&#34; alt=&#34;Great modelling and textures&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/dead-cyborg-3.png&#34; alt=&#34;Great modelling and textures&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Dead Cyborg is difficult, and advancement is limited to extremely small steps. As soon as one obstacle has been overcome, another one is presented almost immediately. But you don&amp;rsquo;t want to give up.&lt;/p&gt;
 
@@ -1042,16 +1042,16 @@ After the demo was over I talked to the Valve employee for a few minutes afterwa
 
 &lt;p&gt;The ending which I won&amp;rsquo;t spoil is quite exciting and has me looking forward to episode 2. There&amp;rsquo;s a &lt;a href = &#34;http://www.youtube.com/watch?v=O_2wCGEV3aI&#34;&gt;trailer&lt;/a&gt; out and it looks even better than episode 1.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/dead-cyborg-4.png&#34; alt=&#34;A puzzle in the game&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/dead-cyborg-4.png&#34; alt=&#34;A puzzle in the game&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>My Hobby:</title>
-      <link>https://feelydj.github.io/blog/post/2013-01-13-my-hobby/</link>
+      <link>https://feelydj.github.io/post/2013-01-13-my-hobby/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2013-01-13-my-hobby/</guid>
+      <guid>https://feelydj.github.io/post/2013-01-13-my-hobby/</guid>
       <description>&lt;p&gt;browsing odd covers of Call Me Maybe on YouTube.&lt;/p&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;http://www.youtube.com/embed/8EjLbVmXIqg&#34; frameborder=&#34;0&#34;&gt; &lt;/iframe&gt;
@@ -1062,10 +1062,10 @@ After the demo was over I talked to the Valve employee for a few minutes afterwa
     
     <item>
       <title>My Podcast List</title>
-      <link>https://feelydj.github.io/blog/post/2012-01-28-my-podcast-list/</link>
+      <link>https://feelydj.github.io/post/2012-01-28-my-podcast-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-01-28-my-podcast-list/</guid>
+      <guid>https://feelydj.github.io/post/2012-01-28-my-podcast-list/</guid>
       <description>&lt;ul style = &#34;font-weight: bold;&#34;&gt;
 
 &lt;h2&gt;Tech&lt;/h2&gt;
@@ -1118,10 +1118,10 @@ Rathole Radio - &lt;a href =&#34;http://ratholeradio.org/&#34;&gt;link&lt;/a&gt;
     
     <item>
       <title>NSA&#39;s definition of collection</title>
-      <link>https://feelydj.github.io/blog/post/2014-04-02-quote-bruce-schneier/</link>
+      <link>https://feelydj.github.io/post/2014-04-02-quote-bruce-schneier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-04-02-quote-bruce-schneier/</guid>
+      <guid>https://feelydj.github.io/post/2014-04-02-quote-bruce-schneier/</guid>
       <description>&lt;p&gt;&lt;em&gt;Indeed, ever since Snowden provided reporters with a trove of top secret documents, we&amp;rsquo;ve
 been subjected to all sorts of NSA word games. And the word &amp;ldquo;collect&amp;rdquo; has a very
 special definition, according to the Department of Defense (DoD). A 1982 procedures manual says: &amp;ldquo;information shall be considered as &amp;lsquo;collected&amp;rsquo; only when it has been
@@ -1146,10 +1146,10 @@ the only books he can claim to have &amp;ldquo;collected&amp;rdquo; are the ones
     
     <item>
       <title>Netflix&#39;s open source centre</title>
-      <link>https://feelydj.github.io/blog/post/2012-08-05-netflix-open-source-centre/</link>
+      <link>https://feelydj.github.io/post/2012-08-05-netflix-open-source-centre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-08-05-netflix-open-source-centre/</guid>
+      <guid>https://feelydj.github.io/post/2012-08-05-netflix-open-source-centre/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://netflix.github.com/&#34;&gt;This&lt;/a&gt; is nice.&lt;/p&gt;
 
 &lt;p&gt;Netflix&amp;rsquo;s custom Github page for it&amp;rsquo;s open-source projects.&lt;/p&gt;
@@ -1160,15 +1160,15 @@ the only books he can claim to have &amp;ldquo;collected&amp;rdquo; are the ones
     
     <item>
       <title>Python script for creating new Jekyll post</title>
-      <link>https://feelydj.github.io/blog/post/2014-04-12-python-script-for-creating-new-jekyll-post/</link>
+      <link>https://feelydj.github.io/post/2014-04-12-python-script-for-creating-new-jekyll-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-04-12-python-script-for-creating-new-jekyll-post/</guid>
+      <guid>https://feelydj.github.io/post/2014-04-12-python-script-for-creating-new-jekyll-post/</guid>
       <description>&lt;p&gt;With Jekyll, there&amp;rsquo;s a small overhead when writing a new post.&lt;/p&gt;
 
 &lt;p&gt;I wrote a simple Python script to handle generating the markdown file with the date and title in correct format on the filename, and the correct headers at the top of the file.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://feelydj.github.io/blog/create_post.py&#34;&gt;The script&lt;/a&gt; is in the root of the Jekyll directory for this site, so it automatically gets added when the site is built.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://feelydj.github.io/create_post.py&#34;&gt;The script&lt;/a&gt; is in the root of the Jekyll directory for this site, so it automatically gets added when the site is built.&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;python create_post.py the-new-post&lt;/code&gt; creates a new post in _posts with this content:&lt;/p&gt;
 
@@ -1188,10 +1188,10 @@ title: the-new-post
     
     <item>
       <title>Quote of the week: Andrei Alexandrescu</title>
-      <link>https://feelydj.github.io/blog/post/2012-02-25-quote-of-the-week-andrei-alexandrescu/</link>
+      <link>https://feelydj.github.io/post/2012-02-25-quote-of-the-week-andrei-alexandrescu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-02-25-quote-of-the-week-andrei-alexandrescu/</guid>
+      <guid>https://feelydj.github.io/post/2012-02-25-quote-of-the-week-andrei-alexandrescu/</guid>
       <description>&lt;div class = &#34;quote&#34;&gt;
 Meh, advice-shmadvice. Who am I to give advice? What’s experience good for in our field? I used to know how to write a keyboard driver and floppy disc formatters with non-standard densities. I’d be all but obsolete today if I hadn’t learned continuously.
 &lt;/div&gt;
@@ -1203,10 +1203,10 @@ Meh, advice-shmadvice. Who am I to give advice? What’s experience good for in 
     
     <item>
       <title>Quote of the week: Bruce Byfield</title>
-      <link>https://feelydj.github.io/blog/post/2012-03-16-quote-of-the-week-bruce-byfield/</link>
+      <link>https://feelydj.github.io/post/2012-03-16-quote-of-the-week-bruce-byfield/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-03-16-quote-of-the-week-bruce-byfield/</guid>
+      <guid>https://feelydj.github.io/post/2012-03-16-quote-of-the-week-bruce-byfield/</guid>
       <description>&lt;blockquote&gt;
 However, now that software like KDE development is outpacing proprietary choices like Windows, these basic advantages are more compelling than they have ever been. Increasingly, we are now in an era in which free-licensed software like KDE is not only an ethical choice, but a pragmatic one as well.
 &lt;/blockquote&gt;
@@ -1218,10 +1218,10 @@ However, now that software like KDE development is outpacing proprietary choices
     
     <item>
       <title>Quote of the week: Fred Brooks</title>
-      <link>https://feelydj.github.io/blog/post/2012-03-25-quote-of-the-week-fred-brooks/</link>
+      <link>https://feelydj.github.io/post/2012-03-25-quote-of-the-week-fred-brooks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-03-25-quote-of-the-week-fred-brooks/</guid>
+      <guid>https://feelydj.github.io/post/2012-03-25-quote-of-the-week-fred-brooks/</guid>
       <description>&lt;div class=&#34;quote&#34;&gt;
 There are many examples from other arts and crafts that lead one to believe that discipline is good for art. Indeed, an artist’s aphorism asserts, “Form is liberating.” The worst buildings are those whose budget was too great for the purposes to be served. Bach’s creative output hardly seems to have been squelched by the necessity of producing a limited-form cantata each week.
 &lt;/div&gt;
@@ -1234,10 +1234,10 @@ There are many examples from other arts and crafts that lead one to believe that
     
     <item>
       <title>Quote of the week: Mark Shuttleworth</title>
-      <link>https://feelydj.github.io/blog/post/2012-02-19-quote-of-the-week-mark-shuttleworth/</link>
+      <link>https://feelydj.github.io/post/2012-02-19-quote-of-the-week-mark-shuttleworth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-02-19-quote-of-the-week-mark-shuttleworth/</guid>
+      <guid>https://feelydj.github.io/post/2012-02-19-quote-of-the-week-mark-shuttleworth/</guid>
       <description>&lt;div class = &#34;quote&#34;&gt;
 So when you next see someone show up on a list and demand that they get what they want or they are going to use &amp;lt;*****&amp;gt; Linux, and how much we&#39;ll miss them because they are really very clever, just recognize that they are not someone who shares the value of the project, we will be better off without their anti-social demands, and look around and appreciate what a wonderful opportunity it is to work with the (fewer) smart people who are also practical, sensitive, and generous. We only need a small number of them to change the world, and we&#39;re doing just fine as it is in that regard.
 &lt;/div&gt;
@@ -1249,10 +1249,10 @@ So when you next see someone show up on a list and demand that they get what the
     
     <item>
       <title>Quote of the week: Paul Graham</title>
-      <link>https://feelydj.github.io/blog/post/2012-03-05-quote-of-the-week-paul-graham/</link>
+      <link>https://feelydj.github.io/post/2012-03-05-quote-of-the-week-paul-graham/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-03-05-quote-of-the-week-paul-graham/</guid>
+      <guid>https://feelydj.github.io/post/2012-03-05-quote-of-the-week-paul-graham/</guid>
       <description>&lt;p&gt;&lt;blockquote cite = &#34;http://www.paulgraham.com/hp.html&#34;&gt;
 We need a language that lets us scribble and smudge and smear, not a language where you have to sit with a teacup of types balanced on your knee and make polite conversation with a strict old aunt of a compiler.
 &lt;/blockquote&gt;
@@ -1263,25 +1263,25 @@ We need a language that lets us scribble and smudge and smear, not a language wh
     
     <item>
       <title>Regeneration</title>
-      <link>https://feelydj.github.io/blog/post/2013-11-25-regeneration/</link>
+      <link>https://feelydj.github.io/post/2013-11-25-regeneration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2013-11-25-regeneration/</guid>
+      <guid>https://feelydj.github.io/post/2013-11-25-regeneration/</guid>
       <description>&lt;p&gt;Trying out a new layout.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Run an application from the terminal but independent of the terminal</title>
-      <link>https://feelydj.github.io/blog/post/2012-01-30-run-an-application-from-the-terminal-but-independent-of-the-terminal/</link>
+      <link>https://feelydj.github.io/post/2012-01-30-run-an-application-from-the-terminal-but-independent-of-the-terminal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-01-30-run-an-application-from-the-terminal-but-independent-of-the-terminal/</guid>
+      <guid>https://feelydj.github.io/post/2012-01-30-run-an-application-from-the-terminal-but-independent-of-the-terminal/</guid>
       <description>&lt;p&gt;This is something I discovered recently that I&amp;rsquo;d never known before but would have benefit greatly from knowing it a long time ago. I&amp;rsquo;ve realised recently that taking five minutes to learn something new can save you much time and effort in the long run. It&amp;rsquo;s kind of like a real-life implementation of the Don&amp;rsquo;t Repeat Yourself mantra.&lt;/p&gt;
 
 &lt;p&gt;For years it&amp;rsquo;s bugged me that starting applications from the terminal kind-of &amp;ldquo;pins&amp;rdquo; them to the terminal, so you need to keep this terminal open to keep the application open, but it&amp;rsquo;s tied up with running this one application.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/pinned-terminal.png&#34; alt=&#34;application pinned to terminal&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/pinned-terminal.png&#34; alt=&#34;application pinned to terminal&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;To solve this, it&amp;rsquo;s as simple as adding an ampersand at the end of the command.&lt;/p&gt;
 
@@ -1295,10 +1295,10 @@ We need a language that lets us scribble and smudge and smear, not a language wh
     
     <item>
       <title>Starting irssi automatically in a terminal at startup in Gnome</title>
-      <link>https://feelydj.github.io/blog/post/2012-01-22-starting-irssi-automatically-in-a-terminal-at-startup-in-gnome/</link>
+      <link>https://feelydj.github.io/post/2012-01-22-starting-irssi-automatically-in-a-terminal-at-startup-in-gnome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-01-22-starting-irssi-automatically-in-a-terminal-at-startup-in-gnome/</guid>
+      <guid>https://feelydj.github.io/post/2012-01-22-starting-irssi-automatically-in-a-terminal-at-startup-in-gnome/</guid>
       <description>&lt;p&gt;Most terminals can be launched with a command that is executed immediately by using the &lt;code&gt;-e&lt;/code&gt; option followed by the command.&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;gnome-terminal -e irssi&lt;/code&gt;&lt;/p&gt;
@@ -1324,10 +1324,10 @@ schedule commands to run at login.&lt;/p&gt;
     
     <item>
       <title>Updating to Eclipse 3.8 broke ADT plugin</title>
-      <link>https://feelydj.github.io/blog/post/2012-11-24-upgrading-eclipse-broke-adt/</link>
+      <link>https://feelydj.github.io/post/2012-11-24-upgrading-eclipse-broke-adt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-11-24-upgrading-eclipse-broke-adt/</guid>
+      <guid>https://feelydj.github.io/post/2012-11-24-upgrading-eclipse-broke-adt/</guid>
       <description>&lt;p&gt;I recently updated to Ubuntu 12.10 and Eclipse 3.8 Indigo. My ADT plugin was gone, and I was having trouble installing it again.&lt;/p&gt;
 
 &lt;p&gt;I was getting this error in the software installer:&lt;/p&gt;
@@ -1348,10 +1348,10 @@ requires &#39;org.eclipse.gef 0.0.0&#39; but it could not be found
     
     <item>
       <title>Vim keystrokes in Google&#43; and Google Reader</title>
-      <link>https://feelydj.github.io/blog/post/2012-03-15-vim-keystrokes-in-google-and-google-reader/</link>
+      <link>https://feelydj.github.io/post/2012-03-15-vim-keystrokes-in-google-and-google-reader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-03-15-vim-keystrokes-in-google-and-google-reader/</guid>
+      <guid>https://feelydj.github.io/post/2012-03-15-vim-keystrokes-in-google-and-google-reader/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve recently been messing around with Mutt a lot on my server (I hope to post about that soon).&lt;/p&gt;
 
 &lt;p&gt;I got so used to using the Vim-style keybindings to browse my mail that when I finished hacking Mutt and switched to Google Plus, I automatically started using the &lt;strong&gt;j and k keys to scroll through posts&lt;/strong&gt; - and it worked.&lt;/p&gt;
@@ -1366,10 +1366,10 @@ requires &#39;org.eclipse.gef 0.0.0&#39; but it could not be found
     
     <item>
       <title>Wacom tablet scrolling in linux</title>
-      <link>https://feelydj.github.io/blog/post/2014-12-30-wacom-scrolling-linux/</link>
+      <link>https://feelydj.github.io/post/2014-12-30-wacom-scrolling-linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-12-30-wacom-scrolling-linux/</guid>
+      <guid>https://feelydj.github.io/post/2014-12-30-wacom-scrolling-linux/</guid>
       <description>&lt;p&gt;I got a Wacom Intuos tablet and was having trouble using it for general scrolling - eg. using a web browser. Couldn&amp;rsquo;t figure out how to map the lower button to scrolling, the way it is with the middle mouse button on my thinkpad.&lt;/p&gt;
 
 &lt;p&gt;The solution, for anyone who has the same issue, was &lt;a href=&#34;https://github.com/thjaeger/easystroke/wiki&#34;&gt;easystroke&lt;/a&gt;. I&amp;rsquo;d say the solution is similiar for Bamboo and Touch Wacom tablets.&lt;/p&gt;
@@ -1386,10 +1386,10 @@ requires &#39;org.eclipse.gef 0.0.0&#39; but it could not be found
     
     <item>
       <title>Zenithink C71</title>
-      <link>https://feelydj.github.io/blog/post/2012-05-14-zenithink/</link>
+      <link>https://feelydj.github.io/post/2012-05-14-zenithink/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-05-14-zenithink/</guid>
+      <guid>https://feelydj.github.io/post/2012-05-14-zenithink/</guid>
       <description>&lt;p&gt;Tablets. Do we need one? Do we want one? I think the answers for me are probably &amp;ldquo;not really&amp;rdquo;.&lt;/p&gt;
 
 &lt;p&gt;But I&amp;rsquo;d been thinking for a while about getting a new device just for reading feeds and e-books. The desktop gets tiring when all you want to do is churn through feeds. The couch beckons. But the netbook isn&amp;rsquo;t a great device for this by nature. You still have to be positioned in a certain way.&lt;/p&gt;
@@ -1404,42 +1404,42 @@ requires &#39;org.eclipse.gef 0.0.0&#39; but it could not be found
     
     <item>
       <title>Zenithink C71 unboxing</title>
-      <link>https://feelydj.github.io/blog/post/2012-06-06-zenithink-c71-unboxing/</link>
+      <link>https://feelydj.github.io/post/2012-06-06-zenithink-c71-unboxing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-06-06-zenithink-c71-unboxing/</guid>
+      <guid>https://feelydj.github.io/post/2012-06-06-zenithink-c71-unboxing/</guid>
       <description>&lt;p&gt;My Zenithink C71 tablet finally arrive about a week ago, but I haven&amp;rsquo;t had time to post anything about it as I&amp;rsquo;ve been away.&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ve been using it a lot, and am really happy with it, but not ready yet to give a full review.&lt;/p&gt;
 
 &lt;p&gt;Here are some pictures of it:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/2012-06-06/0-box.JPG&#34; alt=&#34;box&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/2012-06-06/0-box.JPG&#34; alt=&#34;box&#34; /&gt;
 the box it comes in, replete with dodgy Chinese-English translation&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/2012-06-06/1-packaging.JPG&#34; alt=&#34;box&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/2012-06-06/1-packaging.JPG&#34; alt=&#34;box&#34; /&gt;
 the mountains of packaging&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/2012-06-06/2-box-opened.JPG&#34; alt=&#34;box&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/2012-06-06/2-box-opened.JPG&#34; alt=&#34;box&#34; /&gt;
 inside the box&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/2012-06-06/3-plug.JPG&#34; alt=&#34;box&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/2012-06-06/3-plug.JPG&#34; alt=&#34;box&#34; /&gt;
 the European adaptor&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/2012-06-06/4-screen.JPG&#34; alt=&#34;box&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/2012-06-06/4-screen.JPG&#34; alt=&#34;box&#34; /&gt;
 the device turned on&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/2012-06-06/5-connections.JPG&#34; alt=&#34;box&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/2012-06-06/5-connections.JPG&#34; alt=&#34;box&#34; /&gt;
 the connections it comes with&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>blogroll in Git</title>
-      <link>https://feelydj.github.io/blog/post/2012-05-06-blogroll/</link>
+      <link>https://feelydj.github.io/post/2012-05-06-blogroll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-05-06-blogroll/</guid>
+      <guid>https://feelydj.github.io/post/2012-05-06-blogroll/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve started to enjoy keeping lists. Lists of albums I&amp;rsquo;ve listened to this year, lists of films I watch, lists of stuff I need to buy and stuff I need to do (although &lt;a href=&#34;http://taskwarrior.org/projects/show/taskwarrior&#34;&gt;TaskWarrior&lt;/a&gt; is starting to replace a lot of this).&lt;/p&gt;
 
 &lt;p&gt;Like the list of podcasts I have here, I decided why not have a list of blogs I read. I spend almost as much time reading blogs as I do listening to podcasts. I think the podcast list has been of some value to some people, which is awesome.&lt;/p&gt;
@@ -1456,10 +1456,10 @@ listening: &lt;a href=&#34;http://en.wikipedia.org/wiki/Departures_%28film%29#So
     
     <item>
       <title>chromecast</title>
-      <link>https://feelydj.github.io/blog/post/2014-12-27-chromecast/</link>
+      <link>https://feelydj.github.io/post/2014-12-27-chromecast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-12-27-chromecast/</guid>
+      <guid>https://feelydj.github.io/post/2014-12-27-chromecast/</guid>
       <description>&lt;p&gt;Got a Chromecast as a Christmas present and finding it really handy.&lt;/p&gt;
 
 &lt;p&gt;Especially so after the discovery of &lt;a href=&#34;https://github.com/xat/castnow&#34;&gt;castnow&lt;/a&gt; which lets you stream anything to the chromecast from the command line.&lt;/p&gt;
@@ -1472,22 +1472,22 @@ listening: &lt;a href=&#34;http://en.wikipedia.org/wiki/Departures_%28film%29#So
     
     <item>
       <title>cool new flask</title>
-      <link>https://feelydj.github.io/blog/post/2015-01-05-cool-new-flask/</link>
+      <link>https://feelydj.github.io/post/2015-01-05-cool-new-flask/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2015-01-05-cool-new-flask/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/2015-01-05-box.jpg&#34; alt=&#34;the box&#34; /&gt;&lt;/p&gt;
+      <guid>https://feelydj.github.io/post/2015-01-05-cool-new-flask/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/2015-01-05-box.jpg&#34; alt=&#34;the box&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/2015-01-05-flask.jpg&#34; alt=&#34;the flask&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/2015-01-05-flask.jpg&#34; alt=&#34;the flask&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>dedoimedo-quote</title>
-      <link>https://feelydj.github.io/blog/post/2014-04-30-dedeoimedo-quote/</link>
+      <link>https://feelydj.github.io/post/2014-04-30-dedeoimedo-quote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-04-30-dedeoimedo-quote/</guid>
+      <guid>https://feelydj.github.io/post/2014-04-30-dedeoimedo-quote/</guid>
       <description>&lt;div class = &#34;quote&#34;&gt;
 asking someone to move from Windows to Linux is not the same as driving car A and then switching over to car B. It’s more like learning to drive a moped, and then be asked to drive a Sherman tank, in reverse, blindfolded while wearing high-heels two sizes two big for your feet, with Kate Bush’s Wuthering Heights blasting in your headset, and no air-conditioning.
 &lt;/div&gt;
@@ -1502,10 +1502,10 @@ asking someone to move from Windows to Linux is not the same as driving car A an
     
     <item>
       <title>dialogue in Grail</title>
-      <link>https://feelydj.github.io/blog/post/2012-04-09-dialogue-in-grail/</link>
+      <link>https://feelydj.github.io/post/2012-04-09-dialogue-in-grail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-04-09-dialogue-in-grail/</guid>
+      <guid>https://feelydj.github.io/post/2012-04-09-dialogue-in-grail/</guid>
       <description>&lt;p&gt;I had been thinking about how I wanted to get back into coding. I wanted to start committing regularly to &lt;a href = &#34;http://feedelli.org/grail&#34;&gt;Grail&lt;/a&gt;. But when? My week is already pretty full with work and college.&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;d been reading a lot about atypical coding hours on the likes of Hacker News. Apparently the best time to write code is in the early hours of the morning, when it&amp;rsquo;s quiet. I&amp;rsquo;d also read a bit about The Artist&amp;rsquo;s Way and morning pages. Apparently we&amp;rsquo;re more creative when we first wake up, or something.&lt;/p&gt;
@@ -1535,17 +1535,17 @@ subtitles.useActorsFont = false
 &lt;/code&gt;
 And here&amp;rsquo;s how they look in action:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/speech-bubbles.png&#34; alt=&#34;speech bubbles&#34; /&gt;
-&lt;img src=&#34;https://feelydj.github.io/blog/img/subtitles.png&#34; alt=&#34;subtitles&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/speech-bubbles.png&#34; alt=&#34;speech bubbles&#34; /&gt;
+&lt;img src=&#34;https://feelydj.github.io/img/subtitles.png&#34; alt=&#34;subtitles&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>excitement about proprietary games coming to Linux - misguided?</title>
-      <link>https://feelydj.github.io/blog/post/2012-05-10-proprietary-games-coming-to-linux/</link>
+      <link>https://feelydj.github.io/post/2012-05-10-proprietary-games-coming-to-linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-05-10-proprietary-games-coming-to-linux/</guid>
+      <guid>https://feelydj.github.io/post/2012-05-10-proprietary-games-coming-to-linux/</guid>
       <description>&lt;p&gt;There&amp;rsquo;s been a lot of &lt;a href=&#34;http://www.omgubuntu.co.uk/2012/05/electronic-arts-attending-ubuntu-developer-summit&#34;&gt;rumblings&lt;/a&gt; recently about &lt;a href=&#34;http://www.ubuntuvibes.com/2012/05/diablo-3-game-director-on-linux-support.html&#34;&gt;AAA games&lt;/a&gt; being &lt;a href=&#34;http://www.phoronix.com/scan.php?page=article&amp;amp;item=valve_linux_dampfnudeln&amp;amp;num=1&#34;&gt;released for Linux&lt;/a&gt;. I think the reasons for this can be traced back to the success of the Humble Indie Bundles and paid proprietary games being made available in the Ubuntu software center.&lt;/p&gt;
 
 &lt;p&gt;I admit, there&amp;rsquo;s a little boy inside me that thinks it would be awesome for big-budget new titles to be playable on Linux (this little boy has a lot more free time than me). But when the brief flash of excitement is gone after reading these headlines, I&amp;rsquo;m reminded what&amp;rsquo;s wrong: these games will all remain proprietary software.&lt;/p&gt;
@@ -1562,22 +1562,22 @@ And here&amp;rsquo;s how they look in action:&lt;/p&gt;
     
     <item>
       <title>fiji water</title>
-      <link>https://feelydj.github.io/blog/post/2015-01-07-fiji-water/</link>
+      <link>https://feelydj.github.io/post/2015-01-07-fiji-water/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2015-01-07-fiji-water/</guid>
+      <guid>https://feelydj.github.io/post/2015-01-07-fiji-water/</guid>
       <description>&lt;p&gt;They now have my favourite water in the shop near college.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/2015-01-07-fiji_water.jpg&#34; alt=&#34;Fiji water&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/2015-01-07-fiji_water.jpg&#34; alt=&#34;Fiji water&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>fix apt-get and update repositories on TonidoPlug 1</title>
-      <link>https://feelydj.github.io/blog/post/2012-09-09-fix-apt-get-tonidoplug-1/</link>
+      <link>https://feelydj.github.io/post/2012-09-09-fix-apt-get-tonidoplug-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-09-09-fix-apt-get-tonidoplug-1/</guid>
+      <guid>https://feelydj.github.io/post/2012-09-09-fix-apt-get-tonidoplug-1/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve done this so many times now, and each time I&amp;rsquo;ve needed to google it to remind me how, so I&amp;rsquo;m putting it here for safe-keeping and reference.&lt;/p&gt;
 
 &lt;p&gt;The first TonidoPlug (the white one) comes with a custom Ubuntu 9.04 Jaunty image. Unfortunately that&amp;rsquo;s no longer supported by Canonical, so we need to change our repos to allow us to run an apt-get update.&lt;/p&gt;
@@ -1600,10 +1600,10 @@ And here&amp;rsquo;s how they look in action:&lt;/p&gt;
     
     <item>
       <title>fix root user in botched TonidoPlug mysql install</title>
-      <link>https://feelydj.github.io/blog/post/2012-09-09-fixing-botched-root-user-TonidoPlug-mysql-install/</link>
+      <link>https://feelydj.github.io/post/2012-09-09-fixing-botched-root-user-TonidoPlug-mysql-install/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-09-09-fixing-botched-root-user-TonidoPlug-mysql-install/</guid>
+      <guid>https://feelydj.github.io/post/2012-09-09-fixing-botched-root-user-TonidoPlug-mysql-install/</guid>
       <description>&lt;p&gt;For some reason the settings for the /var/tmp directory conflict with a mysql install on TonidoPlug 1, and the root user does not get created. The &lt;a href=&#34;http://www.tonido.com/forum/viewtopic.php?f=37&amp;amp;t=981&amp;amp;start=10&#34;&gt;solution for this&lt;/a&gt; is to change the permissions BEFORE installing mysql.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;chmod 777 /tmp
@@ -1630,10 +1630,10 @@ apt-get autoclean
     
     <item>
       <title>git aliases for .bashrc or .vimrc</title>
-      <link>https://feelydj.github.io/blog/post/2014-12-15-git-aliases/</link>
+      <link>https://feelydj.github.io/post/2014-12-15-git-aliases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-12-15-git-aliases/</guid>
+      <guid>https://feelydj.github.io/post/2014-12-15-git-aliases/</guid>
       <description>&lt;p&gt;Cool little trick I just thought of. Shorten 99% of your git commands by putting this is in .zshrc or .bashrc&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;# git
@@ -1647,10 +1647,10 @@ alias commit=&amp;quot;git commit&amp;quot;
     
     <item>
       <title>guardian-eggs-quote</title>
-      <link>https://feelydj.github.io/blog/post/2014-04-14-guardian-eggs-quote/</link>
+      <link>https://feelydj.github.io/post/2014-04-14-guardian-eggs-quote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-04-14-guardian-eggs-quote/</guid>
+      <guid>https://feelydj.github.io/post/2014-04-14-guardian-eggs-quote/</guid>
       <description>&lt;div class = &#34;quote&#34;&gt;
 It wasn&#39;t so long ago that we were spoon-fed the unimpeachable &#34;fact&#34; that we should eat no more than two eggs a week because they contained heart-stopping cholesterol, but that gem of nutritional wisdom had to be quietly erased from history when research showing that cholesterol in eggs had almost no effect on blood cholesterol became too glaringly obvious to ignore.
 &lt;/div&gt;
@@ -1662,10 +1662,10 @@ It wasn&#39;t so long ago that we were spoon-fed the unimpeachable &#34;fact&#34
     
     <item>
       <title>irishtidetimes.com launched</title>
-      <link>https://feelydj.github.io/blog/post/2015-02-15-irishtidetimes-launched/</link>
+      <link>https://feelydj.github.io/post/2015-02-15-irishtidetimes-launched/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2015-02-15-irishtidetimes-launched/</guid>
+      <guid>https://feelydj.github.io/post/2015-02-15-irishtidetimes-launched/</guid>
       <description>&lt;p&gt;Launched a simple project I did for college as a website.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://irishtidetimes.com/&#34;&gt;Irish Tide Times&lt;/a&gt;&lt;/p&gt;
@@ -1680,10 +1680,10 @@ It wasn&#39;t so long ago that we were spoon-fed the unimpeachable &#34;fact&#34
     
     <item>
       <title>links</title>
-      <link>https://feelydj.github.io/blog/post/2013-03-05-links/</link>
+      <link>https://feelydj.github.io/post/2013-03-05-links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2013-03-05-links/</guid>
+      <guid>https://feelydj.github.io/post/2013-03-05-links/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.osnews.com/story/26726/Jobs_Schmidt_s_Otellini_s_shady_no-poaching_agreements&#34;&gt;Threatening emails from Steve Jobs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://blog.last.fm/2013/01/31/lastfm-desktop-scrobbler-released&#34;&gt;A Linux client for Last.fm!&lt;/a&gt;&lt;/li&gt;
@@ -1695,10 +1695,10 @@ It wasn&#39;t so long ago that we were spoon-fed the unimpeachable &#34;fact&#34
     
     <item>
       <title>mathias-dopfner-quote</title>
-      <link>https://feelydj.github.io/blog/post/2014-05-14-mathias-dopfner-quote/</link>
+      <link>https://feelydj.github.io/post/2014-05-14-mathias-dopfner-quote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-05-14-mathias-dopfner-quote/</guid>
+      <guid>https://feelydj.github.io/post/2014-05-14-mathias-dopfner-quote/</guid>
       <description>&lt;div class = &#34;quote&#34;&gt;
 There is a quote from you in this context that concerns me. In 2009 you said: “If you have something that you don’t want anyone to know, maybe you shouldn’t be doing it in the first place.” The only sentence that is even more worrying comes from Mark Zuckerberg when he was on the podium of a conference with you and I in the audience. Someone asked what Facebook thinks of the storage of data and the protection of privacy. And Zuckerberg said: “I don’t understand your question. If you have nothing to hide you have nothing to fear.”
 &lt;/div&gt;
@@ -1713,10 +1713,10 @@ There is a quote from you in this context that concerns me. In 2009 you said: �
     
     <item>
       <title>moved to Jekyll, and apologies about messing up feeds!</title>
-      <link>https://feelydj.github.io/blog/post/2012-05-09-moved-to-jekyll/</link>
+      <link>https://feelydj.github.io/post/2012-05-09-moved-to-jekyll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-05-09-moved-to-jekyll/</guid>
+      <guid>https://feelydj.github.io/post/2012-05-09-moved-to-jekyll/</guid>
       <description>&lt;p&gt;So as you may or may not notice my site looks a little bit different. Behind the scenes it&amp;rsquo;s completely different. I&amp;rsquo;ve moved completely over to Jekyll, so what you&amp;rsquo;re looking at now is a static html page that has been &amp;lsquo;compiled&amp;rsquo; by Jekyll.&lt;/p&gt;
 
 &lt;p&gt;The move was disastrous. It was the first time I&amp;rsquo;ve tried any kind of site migration. I don&amp;rsquo;t even have that much content here, and the site was already pretty new to begin with, but moving it was a real pain. I won&amp;rsquo;t go into details other than it was some of the most fruitless and dreary work I&amp;rsquo;ve ever done with web stuff. Still, I managed to keep most of the content, despite at least one accidental deletion (I&amp;rsquo;m going to start backing up soon, I swear! Is Rsync the way to go??).&lt;/p&gt;
@@ -1733,10 +1733,10 @@ listening: &lt;a href =&#34;http://en.wikipedia.org/wiki/R.I.P._(Actress_album)&
     
     <item>
       <title>my favourite albums of 2012</title>
-      <link>https://feelydj.github.io/blog/post/2012-12-30-favourite-albums-2012/</link>
+      <link>https://feelydj.github.io/post/2012-12-30-favourite-albums-2012/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-12-30-favourite-albums-2012/</guid>
+      <guid>https://feelydj.github.io/post/2012-12-30-favourite-albums-2012/</guid>
       <description>&lt;p&gt;In order, kinda:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -1758,40 +1758,40 @@ listening: &lt;a href =&#34;http://en.wikipedia.org/wiki/R.I.P._(Actress_album)&
     
     <item>
       <title>new fishing stuff</title>
-      <link>https://feelydj.github.io/blog/post/2014-04-29-new-fishing-stuff/</link>
+      <link>https://feelydj.github.io/post/2014-04-29-new-fishing-stuff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-04-29-new-fishing-stuff/</guid>
+      <guid>https://feelydj.github.io/post/2014-04-29-new-fishing-stuff/</guid>
       <description>&lt;p&gt;From Amazon.co.uk&lt;/p&gt;
 
 &lt;p&gt;Green Shakespeare Beta Box
-&lt;img src=&#34;https://feelydj.github.io/blog/img/2014-04-29/2014-04-29-shakespeare-beta-box.jpg&#34; alt=&#34;Shakespeare Beta Box&#34; /&gt;
+&lt;img src=&#34;https://feelydj.github.io/img/2014-04-29/2014-04-29-shakespeare-beta-box.jpg&#34; alt=&#34;Shakespeare Beta Box&#34; /&gt;
 &lt;hr /&gt;
 Assorted bits and bobs, and mackerel feathers!
-&lt;img src=&#34;https://feelydj.github.io/blog/img/2014-04-29/2014-04-29-fishing-tackle.jpg&#34; alt=&#34;Fishing tackle&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://feelydj.github.io/img/2014-04-29/2014-04-29-fishing-tackle.jpg&#34; alt=&#34;Fishing tackle&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>open learning: beginnings of computing</title>
-      <link>https://feelydj.github.io/blog/post/2012-02-13-open-learning-beginnings-of-computing/</link>
+      <link>https://feelydj.github.io/post/2012-02-13-open-learning-beginnings-of-computing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-02-13-open-learning-beginnings-of-computing/</guid>
+      <guid>https://feelydj.github.io/post/2012-02-13-open-learning-beginnings-of-computing/</guid>
       <description>&lt;p&gt;This is an idea I&amp;rsquo;ve had to try and cement ideas in my head as I study for college and to try and document my learning.&lt;/p&gt;
 
 &lt;p&gt;Whenever I spend a couple of hours studying a section of my course I&amp;rsquo;ll try and summarise it here, based on notes I&amp;rsquo;ve written. Might not be of use to anyone but me.&lt;/p&gt;
 
 &lt;p&gt;So this is what I&amp;rsquo;ve learned today, or at least formally learned:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/difference-engine-drawing.gif&#34; alt=&#34;Difference Engine&#34; /&gt;
-&lt;img src=&#34;https://feelydj.github.io/blog/img/CharlesBabbage.jpg&#34; alt=&#34;Charles Babbage&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/difference-engine-drawing.gif&#34; alt=&#34;Difference Engine&#34; /&gt;
+&lt;img src=&#34;https://feelydj.github.io/img/CharlesBabbage.jpg&#34; alt=&#34;Charles Babbage&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Charles Babbage&lt;/strong&gt; came up with the idea for the &lt;strong&gt;difference engine&lt;/strong&gt; in the 20&amp;rsquo;s; a machine to calculate a series of values automatically. It was never completed by Babbage but he created a series of prototypes (two were recently constructed by the London Science Museum).&lt;/p&gt;
 
 &lt;p&gt;Babbage then began designing the &lt;strong&gt;analytical engine&lt;/strong&gt; in the 30&amp;rsquo;s and worked on it until his death in 1871. This was a more complex machine; a design for a mechanical general-purpose computer, and different from the difference engine in that it received instructions from a series of punched cards. &lt;strong&gt;Ada Lovelace&lt;/strong&gt;, a mathematician and the world&amp;rsquo;s first computer programmer, wrote an application for the machine.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/AdaLovelace.jpg&#34; alt=&#34;Ada Lovelace&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/AdaLovelace.jpg&#34; alt=&#34;Ada Lovelace&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;The Entscheidungsproblem&lt;/strong&gt; is a mathematical challenge posed by David Hilbert in 1928. It asks for an algorithm that will take as input a description of a formal language and a mathematical statement in the language and produce as output either &amp;ldquo;True&amp;rdquo; or &amp;ldquo;False&amp;rdquo; according to whether the statement is true or false.&lt;/p&gt;
 
@@ -1805,16 +1805,16 @@ A &lt;strong&gt;head&lt;/strong&gt; which reads the symbols from tape
 A &lt;strong&gt;finite table of instruction sets&lt;/strong&gt; executed depending on state (read or write to tape, go to another state)
 A &lt;strong&gt;state register&lt;/strong&gt; which keeps track of which state the machine is in (starts in a default state)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/AlanTuring.jpg&#34; alt=&#34;Alan Turing&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/AlanTuring.jpg&#34; alt=&#34;Alan Turing&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>open learning: finite state machines</title>
-      <link>https://feelydj.github.io/blog/post/2012-02-22-open-learning-finite-state-machines/</link>
+      <link>https://feelydj.github.io/post/2012-02-22-open-learning-finite-state-machines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-02-22-open-learning-finite-state-machines/</guid>
+      <guid>https://feelydj.github.io/post/2012-02-22-open-learning-finite-state-machines/</guid>
       <description>&lt;p&gt;What I understand of finite state machines is that they are graphical representations used to represent states in computing.&lt;/p&gt;
 
 &lt;p&gt;States are represented by circles. Arrows are drawn between states that represent the input symbols received. One input symbol can be received per transaction.&lt;/p&gt;
@@ -1834,17 +1834,17 @@ What an FSM &lt;b&gt;can&amp;rsquo;t&lt;/b&gt; do: anything that involves counti
     
     <item>
       <title>open learning: modern computing, first generation</title>
-      <link>https://feelydj.github.io/blog/post/2012-03-20-open-learning-modern-computing-first-generation/</link>
+      <link>https://feelydj.github.io/post/2012-03-20-open-learning-modern-computing-first-generation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-03-20-open-learning-modern-computing-first-generation/</guid>
+      <guid>https://feelydj.github.io/post/2012-03-20-open-learning-modern-computing-first-generation/</guid>
       <description>&lt;p&gt;The first generation of modern computing history is said to have begun around the late 1930s. &lt;a href = &#34;http://en.wikipedia.org/wiki/Zuse&#34;&gt;Zuse&lt;/a&gt; in Germany and &lt;a href = &#34;http://en.wikipedia.org/wiki/Atanasoff&#34;&gt;Atanasoff&lt;/a&gt; in the USA developed basic computers. The work of neither was recognised widely.&lt;/p&gt;
 
 &lt;p&gt;Similarly, the world&amp;rsquo;s first digital computer, &lt;a href = &#34;http://en.wikipedia.org/wiki/Colossus_computer&#34;&gt;Colossus&lt;/a&gt;, was developed out of the public eye at Bletchley Park. The British built it in secret during World War 2, with the help of &lt;a&gt;Alan Turing&lt;/a&gt;, to decode messages from the German ENIGMA machine.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Eniac&#34;&gt;ENIAC&lt;/a&gt;, however, the creation of John Mauchley and J. Presper Eckert, became famous when it was revealed in 1946. It was a giant machine, using over 17,000 vacuum tubes as binary switches (combined into racks so as to save time in searching for a single burnt out tube). Development had started in 1943 with US military funding. It was intended for calculating artillery firing trajectories but was Turing-complete and could be programmed to solve other problems. It was capable of holding a 10-digit number.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/eniac.jpg&#34; alt=&#34;Operators of ENIAC holding racks of vacuum tubes&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/eniac.jpg&#34; alt=&#34;Operators of ENIAC holding racks of vacuum tubes&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;If the above interests you in any way I would highly recommend the 5-part BBC documentary series &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Machine_That_Changed_the_World_(TV_miniseries)&#34;&gt;The Machine That Changed the World&lt;/a&gt;. It&amp;rsquo;s one of those really high quality, well-researched and thoughtfully-paced programmes that are likely to be entertaining regardless of the subject material. &lt;a href = &#34;http://www.youtube.com/watch?v=rcR74y61xZk&#34;&gt;You can watch it in its entirety on Youtube.&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -1852,11 +1852,11 @@ What an FSM &lt;b&gt;can&amp;rsquo;t&lt;/b&gt; do: anything that involves counti
     
     <item>
       <title>ownCloud on TonidoPlug</title>
-      <link>https://feelydj.github.io/blog/post/2012-01-25-owncloud-on-tonidoplug/</link>
+      <link>https://feelydj.github.io/post/2012-01-25-owncloud-on-tonidoplug/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-01-25-owncloud-on-tonidoplug/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/owncloud-logo.png&#34; alt=&#34;owncloud logo&#34; /&gt;&lt;/p&gt;
+      <guid>https://feelydj.github.io/post/2012-01-25-owncloud-on-tonidoplug/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/owncloud-logo.png&#34; alt=&#34;owncloud logo&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So I&amp;rsquo;d been hearing a lot about ownCloud. Really sounded like a way to become more independent as a netizen, and since I was already running my own &lt;a href = &#34;http://feedelli.org/refresh-page-and-restart-memory&#34;&gt;mini server&lt;/a&gt; I knew it was only a matter of time before I&amp;rsquo;d have to install it. But what finally convinced me to do it soon was Klaatu&amp;rsquo;s super-enthusiastic appraisal on &lt;a href = &#34;http://gnuworldorder.info/&#34;&gt;Gnu World Order&lt;/a&gt; (which reminds me, &lt;a href = &#34;http://hackerpublicradio.org/eps.php?id=0852&#34;&gt;Klaatu&lt;/a&gt;&amp;rsquo;s also the reason I&amp;rsquo;m trying emacs instead of vim or gedit for this post).&lt;/p&gt;
 
@@ -1876,10 +1876,10 @@ What an FSM &lt;b&gt;can&amp;rsquo;t&lt;/b&gt; do: anything that involves counti
     
     <item>
       <title>ownCloud: symlink home directory to your ownCloud files</title>
-      <link>https://feelydj.github.io/blog/post/2012-02-04-owncloud-symlink-home-directory-to-your-owncloud-files/</link>
+      <link>https://feelydj.github.io/post/2012-02-04-owncloud-symlink-home-directory-to-your-owncloud-files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-02-04-owncloud-symlink-home-directory-to-your-owncloud-files/</guid>
+      <guid>https://feelydj.github.io/post/2012-02-04-owncloud-symlink-home-directory-to-your-owncloud-files/</guid>
       <description>&lt;p&gt;This is a handy trick for if you really want to have your files in one place but accessible everywhere.&lt;/p&gt;
 
 &lt;p&gt;I did this on my server because I felt things were getting fragmented between my various home directories and files I had on my ownCloud.&lt;/p&gt;
@@ -1900,11 +1900,11 @@ What an FSM &lt;b&gt;can&amp;rsquo;t&lt;/b&gt; do: anything that involves counti
     
     <item>
       <title>podcasts: Hacker Public Radio</title>
-      <link>https://feelydj.github.io/blog/post/2012-02-20-podcasts-hacker-public-radio/</link>
+      <link>https://feelydj.github.io/post/2012-02-20-podcasts-hacker-public-radio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-02-20-podcasts-hacker-public-radio/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/hpr.png&#34; alt=&#34;HPR Logo&#34; /&gt;
+      <guid>https://feelydj.github.io/post/2012-02-20-podcasts-hacker-public-radio/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/hpr.png&#34; alt=&#34;HPR Logo&#34; /&gt;
 &lt;a href = &#34;http://hackerpublicradio.org/&#34;&gt;Hacker Public Radio&lt;/a&gt; is a lumbering beast of a podcast, dominating my feed most of the time. There are two feeds available - one going back two weeks and another with all of the episodes ever released, clocking in at over 16gb. HPR is epic, and it&amp;rsquo;s also a staple. Anyone who&amp;rsquo;s a consumer of Linux-related content should try to fit it in.&lt;/p&gt;
 
 &lt;p&gt;HPR is very regular, dropping an episode daily Monday to Friday, varying in length from around a quarter of an hour to an hour. The regularity is due to the tremendous effort of HPR&amp;rsquo;s proprietors. Ken Fallon recently relinquished the reigns to Pokey, and the enthusiasm and conviction these guys show to the project is really inspiring. Some of the best moments of the podcast come from the human element - the recent epic New Year&amp;rsquo;s marathon, still clogging up the first three or four slots on my podcast feed as I listen to them bit-by-bit, has already provided me with many laughs, moments of inspiration, and plenty of food for thought.&lt;/p&gt;
@@ -1917,10 +1917,10 @@ What an FSM &lt;b&gt;can&amp;rsquo;t&lt;/b&gt; do: anything that involves counti
     
     <item>
       <title>quick update.</title>
-      <link>https://feelydj.github.io/blog/post/2012-11-04-quick-update/</link>
+      <link>https://feelydj.github.io/post/2012-11-04-quick-update/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-11-04-quick-update/</guid>
+      <guid>https://feelydj.github.io/post/2012-11-04-quick-update/</guid>
       <description>&lt;p&gt;The one-year anniversary of this blog is coming up. &lt;a href=&#34;http://feedelli.org/2011/11/13/refresh-the-page-and-restart-the-memory.html&#34;&gt;This post&lt;/a&gt; was made on the 13th Nov 2011.&lt;/p&gt;
 
 &lt;p&gt;Looking back on the archive, the frequency of posting hasn&amp;rsquo;t quite kept up for the whole year &amp;ndash; but it&amp;rsquo;s been fairly evenly-spaced.&lt;/p&gt;
@@ -1937,10 +1937,10 @@ What an FSM &lt;b&gt;can&amp;rsquo;t&lt;/b&gt; do: anything that involves counti
     
     <item>
       <title>quote</title>
-      <link>https://feelydj.github.io/blog/post/2013-03-04-quote/</link>
+      <link>https://feelydj.github.io/post/2013-03-04-quote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2013-03-04-quote/</guid>
+      <guid>https://feelydj.github.io/post/2013-03-04-quote/</guid>
       <description>&lt;div class=&#34;quote&#34;&gt;
 I hate to say it, but I am a very high-functioning bureaucrat who looks after licenses.
 &lt;/div&gt;
@@ -1952,10 +1952,10 @@ I hate to say it, but I am a very high-functioning bureaucrat who looks after li
     
     <item>
       <title>quote: Pirate Bay</title>
-      <link>https://feelydj.github.io/blog/post/2012-07-15-pirate-bay-quote/</link>
+      <link>https://feelydj.github.io/post/2012-07-15-pirate-bay-quote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-07-15-pirate-bay-quote/</guid>
+      <guid>https://feelydj.github.io/post/2012-07-15-pirate-bay-quote/</guid>
       <description>&lt;div class=&#34;quote&#34;&gt;
     We’re staying put where we are. We’re going no-where. But we have a message to Hollywood, the investigators and the prosecutors: LOL
 &lt;/div&gt;
@@ -1967,10 +1967,10 @@ I hate to say it, but I am a very high-functioning bureaucrat who looks after li
     
     <item>
       <title>qutebrowser and newsbeuter</title>
-      <link>https://feelydj.github.io/blog/post/2015-01-03-qutebrowser-and-newsbeuter/</link>
+      <link>https://feelydj.github.io/post/2015-01-03-qutebrowser-and-newsbeuter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2015-01-03-qutebrowser-and-newsbeuter/</guid>
+      <guid>https://feelydj.github.io/post/2015-01-03-qutebrowser-and-newsbeuter/</guid>
       <description>&lt;p&gt;I have been playing around with a promising new browser called &lt;a href=&#34;https://github.com/The-Compiler/qutebrowser&#34;&gt;Qutebrowser&lt;/a&gt; since the &lt;a href=&#34;https://bitbucket.org/portix/dwb/pull-request/22/several-cleanups-to-increase-portability/&#34;&gt;demise of dwb&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I had a problem with newsbeuter with opening links using qutebrowser (it was holding up newsbeuter). The workaround was the following script:&lt;/p&gt;
@@ -1992,20 +1992,20 @@ exec ~/src/qutebrowser/qutebrowser.py &amp;quot;$*&amp;quot; &amp;gt; /dev/null 
     
     <item>
       <title>qutebrowser lightning talk</title>
-      <link>https://feelydj.github.io/blog/post/2015-01-03-qutebrowser-lightning-talk/</link>
+      <link>https://feelydj.github.io/post/2015-01-03-qutebrowser-lightning-talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2015-01-03-qutebrowser-lightning-talk/</guid>
+      <guid>https://feelydj.github.io/post/2015-01-03-qutebrowser-lightning-talk/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://qutebrowser.org/31c3.webm&#34;&gt;http://qutebrowser.org/31c3.webm&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>refresh the page and restart the memory</title>
-      <link>https://feelydj.github.io/blog/post/2011-11-13-refresh-the-page-and-restart-the-memory/</link>
+      <link>https://feelydj.github.io/post/2011-11-13-refresh-the-page-and-restart-the-memory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2011-11-13-refresh-the-page-and-restart-the-memory/</guid>
+      <guid>https://feelydj.github.io/post/2011-11-13-refresh-the-page-and-restart-the-memory/</guid>
       <description>&lt;p&gt;This is where I’m going to output everything I want to. Partially it’s to keep track of what I’m doing and thinking, and also because some of it could be interesting to someone. I’m also thinking about a project or two that I want to start and need a place to organise my thoughts.&lt;/p&gt;
 
 &lt;p&gt;So this is the first post of my new blog. I got it up and running about two days ago. It’s the latest stable version of WordPress (3.2.1). that’s running on top of a basic LAMP stack:&lt;/p&gt;
@@ -2018,7 +2018,7 @@ exec ~/src/qutebrowser/qutebrowser.py &amp;quot;$*&amp;quot; &amp;gt; /dev/null 
 
 &lt;p&gt;It looks like this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/TonidoPlug.jpg&#34; alt=&#34;TonidoPlug&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/TonidoPlug.jpg&#34; alt=&#34;TonidoPlug&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;but apparently there’s a TonidoPlug2 now, that looks a lot blacker and sleeker.&lt;/p&gt;
 
@@ -2028,10 +2028,10 @@ exec ~/src/qutebrowser/qutebrowser.py &amp;quot;$*&amp;quot; &amp;gt; /dev/null 
     
     <item>
       <title>resetting-xkb</title>
-      <link>https://feelydj.github.io/blog/post/2015-04-19-resetting-xkb/</link>
+      <link>https://feelydj.github.io/post/2015-04-19-resetting-xkb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2015-04-19-resetting-xkb/</guid>
+      <guid>https://feelydj.github.io/post/2015-04-19-resetting-xkb/</guid>
       <description>&lt;p&gt;I was messing around with swapping the Caps Lock key and the Escape key, and this
 in combination with using the Colemak keyboard layout ended up causing some confusion.&lt;/p&gt;
 
@@ -2043,10 +2043,10 @@ as simple as just running &lt;code&gt;setxkbmap gb&lt;/code&gt;. Instead, the so
     
     <item>
       <title>restore a specific folder using Duplicity</title>
-      <link>https://feelydj.github.io/blog/post/2012-06-24-restore-specific-folder-duplicity/</link>
+      <link>https://feelydj.github.io/post/2012-06-24-restore-specific-folder-duplicity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-06-24-restore-specific-folder-duplicity/</guid>
+      <guid>https://feelydj.github.io/post/2012-06-24-restore-specific-folder-duplicity/</guid>
       <description>&lt;p&gt;So backing up is one thing, but there&amp;rsquo;s always the fear of the unknown: how easy will it be to restore everything in the event of a catastrophe? I had a catastrophe last night, and had to get my feet wet.&lt;/p&gt;
 
 &lt;p&gt;I had been messing around with resizing partitions and I don&amp;rsquo;t know how but my whole home partition got deleted. I discovered this when at boot Ubuntu started complaining that /home was not present and did I want to skip it or manually recover it. I booted into a live environment and saw that my /home partition was now &amp;lsquo;unalocatted space&amp;rsquo;. Gone. Lucky I had backed up everything using Deja Dup before I started. I created a new partition in it&amp;rsquo;s place and pointed the /home line of /etc/fstab to the new partition.&lt;/p&gt;
@@ -2078,11 +2078,11 @@ as simple as just running &lt;code&gt;setxkbmap gb&lt;/code&gt;. Instead, the so
     
     <item>
       <title>review: Beach House - Bloom</title>
-      <link>https://feelydj.github.io/blog/post/2012-06-23-review-beach-house-bloom/</link>
+      <link>https://feelydj.github.io/post/2012-06-23-review-beach-house-bloom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-06-23-review-beach-house-bloom/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/2012-06-23-beach-house-primavera.jpg&#34; alt=&#34;beach house at Primavera 2012&#34; /&gt;
+      <guid>https://feelydj.github.io/post/2012-06-23-review-beach-house-bloom/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/2012-06-23-beach-house-primavera.jpg&#34; alt=&#34;beach house at Primavera 2012&#34; /&gt;
 &lt;span class = &#34;photoAttribute&#34;&gt;photo by &lt;a href = &#34;http://www.flickr.com/photos/davenirvana/&#34;&gt;David Tombilla&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;m sure I wasn&amp;rsquo;t the only one feeling a bit tense about where &lt;a href=&#34;http://en.wikipedia.org/wiki/Victoria_Legrand&#34;&gt;Victoria&lt;/a&gt; and &lt;a href = &#34;http://en.wikipedia.org/wiki/Beach_House_(band)&#34;&gt;Beach House&lt;/a&gt; were going to go with the new album. &lt;a href=&#34;http://en.wikipedia.org/wiki/Teen_Dream&#34;&gt;Teen Dream&lt;/a&gt; was the kind of album that felt like a full stop. It was precursored by other tentative efforts, but with Teen Dream they had finally &amp;lsquo;arrived&amp;rsquo;. It stood head and shoulders above anything they&amp;rsquo;d done before. I wondered if they&amp;rsquo;d try to keep up with the ever changing landscape of pop, and feeling they were &amp;lsquo;done with&amp;rsquo; the Teen Dream sound, venture into new lands.&lt;/p&gt;
@@ -2097,13 +2097,13 @@ as simple as just running &lt;code&gt;setxkbmap gb&lt;/code&gt;. Instead, the so
     
     <item>
       <title>review: Zenithink C71</title>
-      <link>https://feelydj.github.io/blog/post/2012-07-08-review-zenithink-c71/</link>
+      <link>https://feelydj.github.io/post/2012-07-08-review-zenithink-c71/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-07-08-review-zenithink-c71/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/2012-07-15/zenithink_c71.jpg&#34; alt=&#34;Zenithink C71&#34; /&gt;&lt;/p&gt;
+      <guid>https://feelydj.github.io/post/2012-07-08-review-zenithink-c71/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/2012-07-15/zenithink_c71.jpg&#34; alt=&#34;Zenithink C71&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I &lt;a href=&#34;https://feelydj.github.io/blog/2012/06/06/zenithink-c71-unboxing.html&#34;&gt;bought a Zenithink C71&lt;/a&gt; a few weeks ago. I&amp;rsquo;ve been using it &lt;em&gt;a lot&lt;/em&gt;. Much more than I had expected to. I wanted it simply because it was cheap and wanted to play with it, and maybe install &lt;a href=&#34;http://plasma-active.org/&#34;&gt;KDE Plasma Active&lt;/a&gt; on it (as this is the device they use for the &lt;a href=&#34;http://makeplaylive.com/&#34;&gt;Vivaldi&lt;/a&gt; tablets). I&amp;rsquo;m still using the rooted Ice Cream Sandwich it came with.&lt;/p&gt;
+&lt;p&gt;I &lt;a href=&#34;https://feelydj.github.io/2012/06/06/zenithink-c71-unboxing.html&#34;&gt;bought a Zenithink C71&lt;/a&gt; a few weeks ago. I&amp;rsquo;ve been using it &lt;em&gt;a lot&lt;/em&gt;. Much more than I had expected to. I wanted it simply because it was cheap and wanted to play with it, and maybe install &lt;a href=&#34;http://plasma-active.org/&#34;&gt;KDE Plasma Active&lt;/a&gt; on it (as this is the device they use for the &lt;a href=&#34;http://makeplaylive.com/&#34;&gt;Vivaldi&lt;/a&gt; tablets). I&amp;rsquo;m still using the rooted Ice Cream Sandwich it came with.&lt;/p&gt;
 
 &lt;p&gt;The tablet doesn&amp;rsquo;t seem cheap to look at, but on closer inspection it doesn&amp;rsquo;t hold up quite so well. The device feels light but slightly plasticy and bendy. The screen wobbles and blurs in certain areas if you apply pressure accidentally. This doesn&amp;rsquo;t bother me too much though, I&amp;rsquo;ve learned to be gentle with it. There&amp;rsquo;s a piece of dirt under the screen though, which is annoying.&lt;/p&gt;
 
@@ -2119,10 +2119,10 @@ as simple as just running &lt;code&gt;setxkbmap gb&lt;/code&gt;. Instead, the so
     
     <item>
       <title>screenshots in Awesome WM</title>
-      <link>https://feelydj.github.io/blog/post/2012-05-12-screenshots-in-awesome/</link>
+      <link>https://feelydj.github.io/post/2012-05-12-screenshots-in-awesome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-05-12-screenshots-in-awesome/</guid>
+      <guid>https://feelydj.github.io/post/2012-05-12-screenshots-in-awesome/</guid>
       <description>&lt;p&gt;Latest thing added to my Awesome: screenshot functionality.&lt;/p&gt;
 
 &lt;p&gt;Vanilla Awesome doesn&amp;rsquo;t do anything when you press the print screen key. It&amp;rsquo;s been one of those things that&amp;rsquo;s been a minor annoyance, but fixing it got left by the wayside because obviously if I was taking a screenshot I was doing something much more interesting&amp;hellip;&lt;/p&gt;
@@ -2141,10 +2141,10 @@ as simple as just running &lt;code&gt;setxkbmap gb&lt;/code&gt;. Instead, the so
     
     <item>
       <title>smash_turns_20</title>
-      <link>https://feelydj.github.io/blog/post/2014-04-09-smash_turns_20/</link>
+      <link>https://feelydj.github.io/post/2014-04-09-smash_turns_20/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-04-09-smash_turns_20/</guid>
+      <guid>https://feelydj.github.io/post/2014-04-09-smash_turns_20/</guid>
       <description>&lt;div class = &#34;quote&#34;&gt;
 “One night I was driving home and didn’t want to go in the house because I didn’t want to stop listening to [Smash]. I started circling the block listening to the record over and over on ten in my old Volvo station wagon. My wife greeted me at the door, and I said, ’Honey, we’re gonna be rich.’”
 &lt;/div&gt;
@@ -2156,10 +2156,10 @@ as simple as just running &lt;code&gt;setxkbmap gb&lt;/code&gt;. Instead, the so
     
     <item>
       <title>software in use</title>
-      <link>https://feelydj.github.io/blog/post/2014-04-06-software-in-use/</link>
+      <link>https://feelydj.github.io/post/2014-04-06-software-in-use/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-04-06-software-in-use/</guid>
+      <guid>https://feelydj.github.io/post/2014-04-06-software-in-use/</guid>
       <description>&lt;p&gt;operating system: &lt;a href=&#34;http://www.ubuntu.com/&#34;&gt;Ubuntu 14.10&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;window manager: &lt;a href=&#34;http://i3wm.org/&#34;&gt;i3&lt;/a&gt;&lt;/p&gt;
@@ -2192,20 +2192,20 @@ as simple as just running &lt;code&gt;setxkbmap gb&lt;/code&gt;. Instead, the so
     
     <item>
       <title>something I never thought I&#39;d have to google</title>
-      <link>https://feelydj.github.io/blog/post/2014-05-04-something-i-never-thought-id-have-to-google/</link>
+      <link>https://feelydj.github.io/post/2014-05-04-something-i-never-thought-id-have-to-google/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-05-04-something-i-never-thought-id-have-to-google/</guid>
+      <guid>https://feelydj.github.io/post/2014-05-04-something-i-never-thought-id-have-to-google/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://msdn.microsoft.com/en-us/library/hh850437.aspx&#34;&gt;http://msdn.microsoft.com/en-us/library/hh850437.aspx&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>split an mkv file in two</title>
-      <link>https://feelydj.github.io/blog/post/2012-05-24-split-mkv/</link>
+      <link>https://feelydj.github.io/post/2012-05-24-split-mkv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-05-24-split-mkv/</guid>
+      <guid>https://feelydj.github.io/post/2012-05-24-split-mkv/</guid>
       <description>&lt;p&gt;I found a handy little tool called mkvmerge. On Ubuntu and derivatives it&amp;rsquo;s in a package called mkvtoolnix.&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s handy for when you need to split an mkv file up to get it onto a FAT32 filesytem such as on an iPod.&lt;/p&gt;
@@ -2220,10 +2220,10 @@ as simple as just running &lt;code&gt;setxkbmap gb&lt;/code&gt;. Instead, the so
     
     <item>
       <title>ssh connection freezing</title>
-      <link>https://feelydj.github.io/blog/post/2012-03-14-ssh-connection-freezing/</link>
+      <link>https://feelydj.github.io/post/2012-03-14-ssh-connection-freezing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-03-14-ssh-connection-freezing/</guid>
+      <guid>https://feelydj.github.io/post/2012-03-14-ssh-connection-freezing/</guid>
       <description>&lt;p&gt;I&amp;rsquo;d noticed that when ssh&amp;rsquo;ed into my Media Temple server, if I left the terminal alone for a while (a minute or two), when I came back the connection would be frozen and I&amp;rsquo;d have to close the terminal.&lt;/p&gt;
 
 &lt;p&gt;I searched for a resolution and found it &lt;a href = &#34;http://shapeshed.com/prevent_your_ssh_connection_from_freezing/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -2241,10 +2241,10 @@ ServerAliveInterval 10
     
     <item>
       <title>starting Midnight Commander in a terminal with Awesome WM</title>
-      <link>https://feelydj.github.io/blog/post/2012-05-13-starting-midnight-commander-in-a-terminal/</link>
+      <link>https://feelydj.github.io/post/2012-05-13-starting-midnight-commander-in-a-terminal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-05-13-starting-midnight-commander-in-a-terminal/</guid>
+      <guid>https://feelydj.github.io/post/2012-05-13-starting-midnight-commander-in-a-terminal/</guid>
       <description>&lt;p&gt;I wanted a shortcut to launch a file manager using WIN-F, sort of like with &lt;a href=&#34;http://crunchbanglinux.org/&#34;&gt;Crunchbang&lt;/a&gt;. I&amp;rsquo;m slowly trying to get used to &lt;a href=&#34;https://www.midnight-commander.org/&#34;&gt;Midnight Commander&lt;/a&gt; as my file manager, instead of Nautilus. So I needed a terminal to launch with mc running. Sounds easy, right?&lt;/p&gt;
 
 &lt;p&gt;I was seeing a weird bug with mc not filling the terminal when running it as a parameter to a terminal command.&lt;/p&gt;
@@ -2254,7 +2254,7 @@ ServerAliveInterval 10
 &lt;pre&gt;&lt;code&gt;terminator -e mc was giving me
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/terminator-mc.png&#34; alt=&#34;terminator with midnight commander&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/terminator-mc.png&#34; alt=&#34;terminator with midnight commander&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;while&lt;/p&gt;
 
@@ -2263,7 +2263,7 @@ ServerAliveInterval 10
 
 &lt;p&gt;gave me&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/gnome-terminal-mc.png&#34; alt=&#34;gnome-terminal with midnight commander&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/gnome-terminal-mc.png&#34; alt=&#34;gnome-terminal with midnight commander&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;xterm gave something similiar as well.&lt;/p&gt;
 
@@ -2294,10 +2294,10 @@ ServerAliveInterval 10
     
     <item>
       <title>switched to Drupal 7</title>
-      <link>https://feelydj.github.io/blog/post/2011-11-20-switched-to-drupal-7/</link>
+      <link>https://feelydj.github.io/post/2011-11-20-switched-to-drupal-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2011-11-20-switched-to-drupal-7/</guid>
+      <guid>https://feelydj.github.io/post/2011-11-20-switched-to-drupal-7/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve changed over to Drupal 7. Wordpress just felt&amp;hellip; boring. Also I don&amp;rsquo;t know if it could really provide everything I need as I want to experiment with hosting stuff.&lt;/p&gt;
 
 &lt;p&gt;I had forgotten how frustrating it can be trying to manage themes and modules on Drupal. I finally have the site looking/working the way I want it but it took a lot of messing around. I&amp;rsquo;m using the &lt;a href=&#34;http://drupal.org/project/corolla&#34;&gt;Corolla&lt;/a&gt; theme which is apparently a &amp;ldquo;sub-theme&amp;rdquo; of &lt;a href=&#34;http://drupal.org/project/adaptivetheme&#34;&gt;AdaptiveTheme&lt;/a&gt; which needs to be installed first. I didn&amp;rsquo;t read the readme to see this and ended up getting a php error on my main page after installing it. So I had to manually extract the AT Core theme into the themes folder. Corolla is nice though.&lt;/p&gt;
@@ -2308,10 +2308,10 @@ ServerAliveInterval 10
     
     <item>
       <title>the annoyance of providing lecture notes in ppt format</title>
-      <link>https://feelydj.github.io/blog/post/2013-02-24-annoyance-of-not-releasing-pdf-lecture-notes/</link>
+      <link>https://feelydj.github.io/post/2013-02-24-annoyance-of-not-releasing-pdf-lecture-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2013-02-24-annoyance-of-not-releasing-pdf-lecture-notes/</guid>
+      <guid>https://feelydj.github.io/post/2013-02-24-annoyance-of-not-releasing-pdf-lecture-notes/</guid>
       <description>&lt;p&gt;I was downloading a lot of lecture notes to read through. The majority of these were put on Moodle in Powerpoint format. This is an awful thing to do. It was making me hate LibreOffice.&lt;/p&gt;
 
 &lt;p&gt;So I started converting them to pdf format to read with the excellent document viewer in Ubuntu 12.04 (which even has some vim-like keybindings). I found out a nice way of doing this at the command line &lt;a href=&#34;http://askubuntu.com/questions/11130/how-can-i-convert-a-ppt-to-a-pdf-from-the-command-line&#34;&gt;at AskUbuntu&lt;/a&gt; (a great resource!).&lt;/p&gt;
@@ -2327,10 +2327,10 @@ ServerAliveInterval 10
     
     <item>
       <title>the quest for the perfect music player</title>
-      <link>https://feelydj.github.io/blog/post/2012-08-03-the-quest-for-the-perfect-music-player/</link>
+      <link>https://feelydj.github.io/post/2012-08-03-the-quest-for-the-perfect-music-player/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-08-03-the-quest-for-the-perfect-music-player/</guid>
+      <guid>https://feelydj.github.io/post/2012-08-03-the-quest-for-the-perfect-music-player/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve looked at a lot of music players on Linux over the years. I recently come to the conclusion that &lt;em&gt;they&amp;rsquo;re all crap&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;People want different things from their music player, which are very personal to them (&amp;ldquo;why on earth would they not have an option to x?!?!?! Do these people even listen to music?!?!&amp;rdquo;).&lt;/p&gt;
@@ -2339,7 +2339,7 @@ ServerAliveInterval 10
 
 &lt;p&gt;After a bit of Googling for &amp;ldquo;ncurses-based music player&amp;rdquo; and the like I finally chose &lt;a href=&#34;http://cmus.sourceforge.net/&#34;&gt;cmus&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/2012-08-03/cmus.png&#34; alt=&#34;cmus&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/2012-08-03/cmus.png&#34; alt=&#34;cmus&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It really works. It&amp;rsquo;s a fully functional command line based music player, with nifty keyboard shortcuts (such as, yes, / to search). It&amp;rsquo;s damn cool. Most importantly, it can scrobble to last.fm (and libre.fm).&lt;/p&gt;
 
@@ -2353,25 +2353,25 @@ ServerAliveInterval 10
     
     <item>
       <title>updated Python script for creating new Jekyll post</title>
-      <link>https://feelydj.github.io/blog/post/2014-04-18-updated-python-jekyll-create-post-script/</link>
+      <link>https://feelydj.github.io/post/2014-04-18-updated-python-jekyll-create-post-script/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-04-18-updated-python-jekyll-create-post-script/</guid>
-      <description>&lt;p&gt;I posted recently about my &lt;a href=&#34;https://feelydj.github.io/blog/2014/04/12/python-script-for-creating-new-jekyll-post.html&#34;&gt;nifty new script&lt;/a&gt; for creating new Jekyll posts quickly.&lt;/p&gt;
+      <guid>https://feelydj.github.io/post/2014-04-18-updated-python-jekyll-create-post-script/</guid>
+      <description>&lt;p&gt;I posted recently about my &lt;a href=&#34;https://feelydj.github.io/2014/04/12/python-script-for-creating-new-jekyll-post.html&#34;&gt;nifty new script&lt;/a&gt; for creating new Jekyll posts quickly.&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ve updated this now to open vim (you can tailor this to your preferred text editor) and edit the Markdown file you&amp;rsquo;ve just created. It will also jump down to the line where you start typing your post.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://feelydj.github.io/blog/create_post.py&#34;&gt;Script is here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://feelydj.github.io/create_post.py&#34;&gt;Script is here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>updated podcast list</title>
-      <link>https://feelydj.github.io/blog/post/2014-06-08-update-podcast-list/</link>
+      <link>https://feelydj.github.io/post/2014-06-08-update-podcast-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-06-08-update-podcast-list/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://feelydj.github.io/blog/2012/01/28/my-podcast-list.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+      <guid>https://feelydj.github.io/post/2014-06-08-update-podcast-list/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://feelydj.github.io/2012/01/28/my-podcast-list.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Seems to have gotten smaller. Some have finished, some have gone downhill in terms of quality, and some I don&amp;rsquo;t have time for anymore.&lt;/p&gt;
 </description>
@@ -2379,10 +2379,10 @@ ServerAliveInterval 10
     
     <item>
       <title>vim delete inside brackets</title>
-      <link>https://feelydj.github.io/blog/post/2014-04-17-vim-delete-inside-brackets/</link>
+      <link>https://feelydj.github.io/post/2014-04-17-vim-delete-inside-brackets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2014-04-17-vim-delete-inside-brackets/</guid>
+      <guid>https://feelydj.github.io/post/2014-04-17-vim-delete-inside-brackets/</guid>
       <description>&lt;p&gt;Been using vim for a few years but today finally learned the handy &amp;ldquo;delete inside brackets&amp;rdquo; command.&lt;/p&gt;
 
 &lt;p&gt;the command is di (delete inside) and then the characters you want to delete inside&lt;/p&gt;
@@ -2397,13 +2397,13 @@ ServerAliveInterval 10
     
     <item>
       <title>why I use Duck Duck Go</title>
-      <link>https://feelydj.github.io/blog/post/2012-02-15-why-i-use-duck-duck-go/</link>
+      <link>https://feelydj.github.io/post/2012-02-15-why-i-use-duck-duck-go/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-02-15-why-i-use-duck-duck-go/</guid>
+      <guid>https://feelydj.github.io/post/2012-02-15-why-i-use-duck-duck-go/</guid>
       <description>&lt;p&gt;Like a lot of others I&amp;rsquo;ve &amp;ldquo;switched&amp;rdquo; from using Google to using &lt;a href = &#34;http://duckduckgo.com/&#34;&gt;Duck Duck Go&lt;/a&gt; as my default search engine. I just want to mention what I think about it.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/blog/img/DuckDuckGo.png&#34; alt=&#34;Duck Duck Go&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://feelydj.github.io/img/DuckDuckGo.png&#34; alt=&#34;Duck Duck Go&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;First off, I have to say that Duck Duck Go is slower than Google. Most of us &amp;ldquo;power users&amp;rdquo; can probably have something googled in a second or two at most after it pops into our heads. That&amp;rsquo;s why the fraction of a second it takes for Duck Duck Go to return a search is noticeable. Let&amp;rsquo;s be honest, Duck Duck Go is never going to be able to match Google for speed. But in the long run, that half a second is only a minor annoyance.&lt;/p&gt;
 

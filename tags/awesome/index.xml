@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Awesome on Adventure Servers Blog</title>
-    <link>https://feelydj.github.io/blog/tags/awesome/index.xml</link>
-    <description>Recent content in Awesome on Adventure Servers Blog</description>
+    <title>Awesome on feelydj Blog</title>
+    <link>https://feelydj.github.io/tags/awesome/index.xml</link>
+    <description>Recent content in Awesome on feelydj Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://feelydj.github.io/blog/tags/awesome/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://feelydj.github.io/tags/awesome/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>screenshots in Awesome WM</title>
-      <link>https://feelydj.github.io/blog/post/2012-05-12-screenshots-in-awesome/</link>
+      <link>https://feelydj.github.io/post/2012-05-12-screenshots-in-awesome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feelydj.github.io/blog/post/2012-05-12-screenshots-in-awesome/</guid>
+      <guid>https://feelydj.github.io/post/2012-05-12-screenshots-in-awesome/</guid>
       <description>&lt;p&gt;Latest thing added to my Awesome: screenshot functionality.&lt;/p&gt;
 
 &lt;p&gt;Vanilla Awesome doesn&amp;rsquo;t do anything when you press the print screen key. It&amp;rsquo;s been one of those things that&amp;rsquo;s been a minor annoyance, but fixing it got left by the wayside because obviously if I was taking a screenshot I was doing something much more interesting&amp;hellip;&lt;/p&gt;
