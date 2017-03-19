@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tcp on feelydj Blog</title>
+    <link>https://feelydj.github.io/tags/tcp/index.xml</link>
+    <description>Recent content in Tcp on feelydj Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://feelydj.github.io/tags/tcp/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>tcp states</title>
+      <link>https://feelydj.github.io/post/tcp-states/</link>
+      <pubDate>Sun, 19 Mar 2017 09:36:51 +0000</pubDate>
+      
+      <guid>https://feelydj.github.io/post/tcp-states/</guid>
+      <description>
+
+&lt;p&gt;A TCP connection goes through a number of states during it&amp;rsquo;s lifetime.&lt;/p&gt;
+
+&lt;p&gt;The Active Opener (usually client) has the following states:&lt;/p&gt;
+
+&lt;p&gt;CLOSED&lt;/p&gt;
+
+&lt;p&gt;SYN_SENT (after sending the first SYN and while waiting for the ACK)&lt;/p&gt;
+
+&lt;p&gt;ESTABLISHED (after ACK received - data transmission takes place here)&lt;/p&gt;
+
+&lt;p&gt;FIN_WAIT_1 (after FIN sent)&lt;/p&gt;
+
+&lt;p&gt;FIN_WAIT_2 (FIN ACKED, now waiting on server FIN)&lt;/p&gt;
+
+&lt;p&gt;TIME_WAIT (after server has sent FIN)&lt;/p&gt;
+
+&lt;p&gt;CLOSED&lt;/p&gt;
+
+&lt;p&gt;The Passive Opener (usually server) has the following states:&lt;/p&gt;
+
+&lt;p&gt;CLOSED&lt;/p&gt;
+
+&lt;p&gt;LISTEN&lt;/p&gt;
+
+&lt;p&gt;SYN_RECEIVED (after it gets SYN from client)&lt;/p&gt;
+
+&lt;p&gt;ESTABLISHED (after server&amp;rsquo;s SYN + ACK has been ACK&amp;rsquo;d - data transmission takes place here)&lt;/p&gt;
+
+&lt;p&gt;CLOSE_WAIT (after receiving the FIN from the client)&lt;/p&gt;
+
+&lt;p&gt;LAST_ACK (after sending own FIN)&lt;/p&gt;
+
+&lt;p&gt;CLOSED&lt;/p&gt;
+
+&lt;h3 id=&#34;time-wait-and-2msl&#34;&gt;TIME_WAIT and 2MSL&lt;/h3&gt;
+
+&lt;p&gt;The TIME_WAIT state has two purposes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;to prevent late-arriving packets from interfering with a new connection on the same 4-tuple of ports and IP addresses, by keeping the connection open for a period of 2MSL or twice the Maximum Segment Length&lt;/li&gt;
+&lt;li&gt;to wait for retransmission if necessary of the server(passive opener)&amp;rsquo;s FIN packet&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Maximum Segment Length is supposed to represent the maximum time a packet could theoretically stay in the network. On Linux, the 2MSL value is 60 seconds by default. It&amp;rsquo;s set in net.ipv4.tcp_fin_timeout.&lt;/p&gt;
+
+&lt;p&gt;TIME_WAIT state is not needed for a server, since if the client is to open a new connection it will be assigned a random ephemeral port does creating a new 4-tuple and a new TCP connection.&lt;/p&gt;
+
+&lt;p&gt;FIN_WAIT_2 also has a timeout dictated by net.ipv4/tcp_fin_timeout. If the active closer has sent a FIN for full close and does not receive an ACK within the period, it will go to CLOSED state. This is to prevent the connection staying in FIN_WAIT_2 forever.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

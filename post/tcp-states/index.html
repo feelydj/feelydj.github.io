@@ -4,7 +4,7 @@
     <meta name="generator" content="Hugo 0.20-DEV" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>tcp handshake | feelydj Blog</title>
+    <title>tcp states | feelydj Blog</title>
     
     
     
@@ -15,20 +15,24 @@
   <meta name="author" content="">
 
 
-    <meta property="og:title" content="tcp handshake" />
-<meta property="og:description" content="A TCP connection is identified by a set of two IP addresses and two ports. How is this established? The TCP handshake is crucial in setting up a TCP connection. It performs the initial negotiation so that both server and client can begin to send data.
-How it works The client performs an active open meaning it&rsquo;s initiating the connection. The client chooses an ISN (Initial Sequence Number) to start the numbering of it&rsquo;s packets." />
+    <meta property="og:title" content="tcp states" />
+<meta property="og:description" content="A TCP connection goes through a number of states during it&rsquo;s lifetime.
+The Active Opener (usually client) has the following states:
+CLOSED
+SYN_SENT (after sending the first SYN and while waiting for the ACK)
+ESTABLISHED (after ACK received - data transmission takes place here)
+FIN_WAIT_1 (after FIN sent)
+FIN_WAIT_2 (FIN ACKED, now waiting on server FIN)
+TIME_WAIT (after server has sent FIN)
+CLOSED
+The Passive Opener (usually server) has the following states:" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://feelydj.github.io/post/tcp-handshake/" />
+<meta property="og:url" content="https://feelydj.github.io/post/tcp-states/" />
 
 
 
-<meta property="article:published_time" content="2017-03-18T17:56:40&#43;00:00"/>
-<meta property="article:modified_time" content="2017-03-18T17:56:40&#43;00:00"/>
-
-
-
-
+<meta property="article:published_time" content="2017-03-19T09:36:51&#43;00:00"/>
+<meta property="article:modified_time" content="2017-03-19T09:36:51&#43;00:00"/>
 
 
 
@@ -36,14 +40,18 @@ How it works The client performs an active open meaning it&rsquo;s initiating th
 
 
 
-    
 
 
 
 
     
+
+
+
+
     
-    <link rel="canonical" href="https://feelydj.github.io/post/tcp-handshake/">
+    
+    <link rel="canonical" href="https://feelydj.github.io/post/tcp-states/">
     
     
     <link rel="shortcut icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABGdBTUEAALGPC/xhBQAAG+ZJREFU
@@ -258,20 +266,28 @@ jJasrM9JHpMQoTocKVCL4IPr/fOT+fzoT3p+SelrFs2odf2vmwZACVzT9SAJ8iKO6OCx+/tKkw2M
     <main>
   <article itemscope itemtype="http://schema.org/BlogPosting">
     
-<meta itemprop="name" content="tcp handshake">
-<meta itemprop="description" content="A TCP connection is identified by a set of two IP addresses and two ports. How is this established? The TCP handshake is crucial in setting up a TCP connection. It performs the initial negotiation so that both server and client can begin to send data.
-How it works The client performs an active open meaning it&rsquo;s initiating the connection. The client chooses an ISN (Initial Sequence Number) to start the numbering of it&rsquo;s packets.">
+<meta itemprop="name" content="tcp states">
+<meta itemprop="description" content="A TCP connection goes through a number of states during it&rsquo;s lifetime.
+The Active Opener (usually client) has the following states:
+CLOSED
+SYN_SENT (after sending the first SYN and while waiting for the ACK)
+ESTABLISHED (after ACK received - data transmission takes place here)
+FIN_WAIT_1 (after FIN sent)
+FIN_WAIT_2 (FIN ACKED, now waiting on server FIN)
+TIME_WAIT (after server has sent FIN)
+CLOSED
+The Passive Opener (usually server) has the following states:">
 
 
-<meta itemprop="dateModified" content="2017-03-18T17:56:40&#43;00:00" />
-<meta itemprop="wordCount" content="333">
+<meta itemprop="dateModified" content="2017-03-19T09:36:51&#43;00:00" />
+<meta itemprop="wordCount" content="279">
 
 
 
 <meta itemprop="keywords" content=",,awesome,tcp," />
 
     <header>
-      <h1 itemprop="headline">tcp handshake</h1>
+      <h1 itemprop="headline">tcp states</h1>
       <p class="muted"><svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
   <circle cx="16" cy="16" r="14" />
   <path d="M16 8 L16 16 20 20" />
@@ -281,7 +297,7 @@ How it works The client performs an active open meaning it&rsquo;s initiating th
   <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
 </svg>
 
-  Published: <time datetime="2017-03-18T17:56:40&#43;00:00">18 Mar, 2017</time>
+  Published: <time datetime="2017-03-19T09:36:51&#43;00:00">19 Mar, 2017</time>
 
 </p>
     </header>
@@ -291,31 +307,54 @@ How it works The client performs an active open meaning it&rsquo;s initiating th
     <div itemprop="articleBody">
       
 
-<p>A TCP connection is identified by a set of two IP addresses and two ports. How is this established? The TCP handshake is crucial in setting up a TCP connection. It performs the initial negotiation so that both server and client can begin to send data.</p>
+<p>A TCP connection goes through a number of states during it&rsquo;s lifetime.</p>
 
-<h2 id="how-it-works">How it works</h2>
+<p>The Active Opener (usually client) has the following states:</p>
 
-<p>The client performs an <em>active open</em> meaning it&rsquo;s initiating the connection. The client chooses an ISN (Initial Sequence Number) to start the numbering of it&rsquo;s packets. This number is a 32-bit integer which is incremented by 1 every 4 microseconds.</p>
+<p>CLOSED</p>
 
-<p>The client sends a SYN (synchronize) packet announcing this ISN.</p>
+<p>SYN_SENT (after sending the first SYN and while waiting for the ACK)</p>
 
-<p>The server (the passive opener) responds with an ACK (acknowledge) which indicates the server has received the initial SYN. The ACK will &lsquo;ackowledge&rsquo; the received sequence number + 1 (essentially it tells the sender which packet the receiver is expecting next). In the same packet the server announces it&rsquo;s own ISN (server and client each have their own sequence).</p>
+<p>ESTABLISHED (after ACK received - data transmission takes place here)</p>
 
-<p>The client then &lsquo;ACKs&rsquo; the server&rsquo;s SYN.</p>
+<p>FIN_WAIT_1 (after FIN sent)</p>
 
-<p>At this point the connection is established and data can flow between server and client.</p>
+<p>FIN_WAIT_2 (FIN ACKED, now waiting on server FIN)</p>
 
-<h3 id="how-is-the-isn-chosen">How is the ISN chosen?</h3>
+<p>TIME_WAIT (after server has sent FIN)</p>
 
-<p>ISN is chosen in a semi-random fashion and along with the time-based incrementation of the number aims to prevent late-arriving packets from an old TCP connection with the same IP addresses and ports from interfering with a newer TCP connection. The 4-tuple (2 IP addresses, 2 ports) is run through a cryptographic hash, along with an additional secret value chosen every five minutes, in order to generate the initial number.</p>
+<p>CLOSED</p>
 
-<h3 id="retries">Retries</h3>
+<p>The Passive Opener (usually server) has the following states:</p>
 
-<p>If the active opener sends a SYN and does not receive a response, it will retry in &ldquo;exponential backoff&rdquo; fashion, doubling the time it waits after each non-response. It will eventually time out after two minutes.</p>
+<p>CLOSED</p>
 
-<p>On Linux, the default retry amount is 5. This can be set with the net.ipv4.tcp_syn_retries_default variable.</p>
+<p>LISTEN</p>
 
-<p>Correspondingly, if a server does not receive a response to it&rsquo;s SYN-ACK, it will retry. This also defaults to 5 and is set with net.ipv4.tcp_synack_retries</p>
+<p>SYN_RECEIVED (after it gets SYN from client)</p>
+
+<p>ESTABLISHED (after server&rsquo;s SYN + ACK has been ACK&rsquo;d - data transmission takes place here)</p>
+
+<p>CLOSE_WAIT (after receiving the FIN from the client)</p>
+
+<p>LAST_ACK (after sending own FIN)</p>
+
+<p>CLOSED</p>
+
+<h3 id="time-wait-and-2msl">TIME_WAIT and 2MSL</h3>
+
+<p>The TIME_WAIT state has two purposes:</p>
+
+<ul>
+<li>to prevent late-arriving packets from interfering with a new connection on the same 4-tuple of ports and IP addresses, by keeping the connection open for a period of 2MSL or twice the Maximum Segment Length</li>
+<li>to wait for retransmission if necessary of the server(passive opener)&rsquo;s FIN packet</li>
+</ul>
+
+<p>The Maximum Segment Length is supposed to represent the maximum time a packet could theoretically stay in the network. On Linux, the 2MSL value is 60 seconds by default. It&rsquo;s set in net.ipv4.tcp_fin_timeout.</p>
+
+<p>TIME_WAIT state is not needed for a server, since if the client is to open a new connection it will be assigned a random ephemeral port does creating a new 4-tuple and a new TCP connection.</p>
+
+<p>FIN_WAIT_2 also has a timeout dictated by net.ipv4/tcp_fin_timeout. If the active closer has sent a FIN for full close and does not receive an ACK within the period, it will go to CLOSED state. This is to prevent the connection staying in FIN_WAIT_2 forever.</p>
 
     </div>
     
@@ -328,16 +367,16 @@ How it works The client performs an active open meaning it&rsquo;s initiating th
       by <span itemprop="author"></span>
     
   
-  <time datetime="2017-03-18T17:56:40&#43;00:00">
-    18 Mar, 2017
+  <time datetime="2017-03-19T09:36:51&#43;00:00">
+    19 Mar, 2017
   </time>
   
     in <span itemprop="articleSection"><a href="/categories//"></a></span>
   
   
-    and tagged <a href="/tags//"></a> and <a href="/tags//"></a>
+    and tagged <a href="/tags//"></a> and <a href="/tags/tcp/">tcp</a>
   
-  using <span itemprop="wordCount">333</span> words.
+  using <span itemprop="wordCount">279</span> words.
 </p>
 
       
@@ -350,7 +389,7 @@ How it works The client performs an active open meaning it&rsquo;s initiating th
     <ul>
       
       
-        <li><a href="/post/tcp-states/">tcp states</a> &ndash; 2 minutes
+        <li><a href="/post/tcp-handshake/">tcp handshake</a> &ndash; 2 minutes
       
     </ul>
   </aside>
