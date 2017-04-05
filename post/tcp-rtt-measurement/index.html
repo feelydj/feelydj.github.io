@@ -4,26 +4,29 @@
     <meta name="generator" content="Hugo 0.20-DEV" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Posts | feelydj Blog</title>
+    <title>TCP Round Trip Time Measurement With Timestamps Option | feelydj Blog</title>
     
     
     
     
-    
-      <meta name="robots" content="noindex">
     
     
 
   <meta name="author" content="">
 
 
-    <meta property="og:title" content="Posts" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://feelydj.github.io/post/" />
+    <meta property="og:title" content="TCP Round Trip Time Measurement With Timestamps Option" />
+<meta property="og:description" content="RTT (Round Trip Time) measurement is important for TCP connections so that duplicate segments are not sent.
+One way to measure Round Trip Time is with the TCP Timestamps option TSOPT. This option is used by default in Linux and Windows.
+The option contains TSV Timestamp Value and TSER timestamp returned with ACK.
+1) the sender includes a 32 bit timestamp with each TCP packet, in the TSV section of the option" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://feelydj.github.io/post/tcp-rtt-measurement/" />
 
 
 
+<meta property="article:published_time" content="2017-04-05T09:02:12&#43;00:00"/>
+<meta property="article:modified_time" content="2017-04-05T09:02:12&#43;00:00"/>
 
 
 
@@ -42,9 +45,7 @@
 
     
     
-      <link href="https://feelydj.github.io/post/index.xml" rel="alternate" type="application/rss+xml" title="feelydj Blog" />
-    
-    <link rel="canonical" href="https://feelydj.github.io/post/">
+    <link rel="canonical" href="https://feelydj.github.io/post/tcp-rtt-measurement/">
     
     
     <link rel="shortcut icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABGdBTUEAALGPC/xhBQAAG+ZJREFU
@@ -257,16 +258,24 @@ jJasrM9JHpMQoTocKVCL4IPr/fOT+fzoT3p+SelrFs2odf2vmwZACVzT9SAJ8iKO6OCx+/tKkw2M
 
 </header>
     <main>
-  <header>
-    <h1>Posts</h1>
-  </header>
-  
-    <article itemscope itemtype="http://schema.org/CreativeWork">
-  <header>
-    <h2 itemprop="headline">
-      <a href="https://feelydj.github.io/post/2015-01-07-fiji-water/">fiji water</a>
-    </h2>
+  <article itemscope itemtype="http://schema.org/BlogPosting">
     
+<meta itemprop="name" content="TCP Round Trip Time Measurement With Timestamps Option">
+<meta itemprop="description" content="RTT (Round Trip Time) measurement is important for TCP connections so that duplicate segments are not sent.
+One way to measure Round Trip Time is with the TCP Timestamps option TSOPT. This option is used by default in Linux and Windows.
+The option contains TSV Timestamp Value and TSER timestamp returned with ACK.
+1) the sender includes a 32 bit timestamp with each TCP packet, in the TSV section of the option">
+
+
+<meta itemprop="dateModified" content="2017-04-05T09:02:12&#43;00:00" />
+<meta itemprop="wordCount" content="140">
+
+
+
+<meta itemprop="keywords" content=",,awesome,tcp," />
+
+    <header>
+      <h1 itemprop="headline">TCP Round Trip Time Measurement With Timestamps Option</h1>
       <p class="muted"><svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
   <circle cx="16" cy="16" r="14" />
   <path d="M16 8 L16 16 20 20" />
@@ -276,153 +285,71 @@ jJasrM9JHpMQoTocKVCL4IPr/fOT+fzoT3p+SelrFs2odf2vmwZACVzT9SAJ8iKO6OCx+/tKkw2M
   <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
 </svg>
 
-  Published: <time datetime="0001-01-01T00:00:00&#43;00:00">1 Jan, 0001</time>
+  Published: <time datetime="2017-04-05T09:02:12&#43;00:00">5 Apr, 2017</time>
 
 </p>
+    </header>
     
-  </header>
-  
-  <div itemprop="description">
-    They now have my favourite water in the shop near college.
-  </div>
-  
-</article>
-
-  
-    <article itemscope itemtype="http://schema.org/CreativeWork">
-  <header>
-    <h2 itemprop="headline">
-      <a href="https://feelydj.github.io/post/2012-09-09-fix-apt-get-tonidoplug-1/">fix apt-get and update repositories on TonidoPlug 1</a>
-    </h2>
     
-      <p class="muted"><svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <circle cx="16" cy="16" r="14" />
-  <path d="M16 8 L16 16 20 20" />
-</svg>
-<span>1 minute read</span>
-<svg style="margin-bottom: -3px" id="i-edit" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
-</svg>
 
-  Published: <time datetime="0001-01-01T00:00:00&#43;00:00">1 Jan, 0001</time>
+    <div itemprop="articleBody">
+      <p>RTT (Round Trip Time) measurement is important for TCP connections so that duplicate segments are not sent.</p>
 
+<p>One way to measure Round Trip Time is with the TCP Timestamps option TSOPT. This option is used by default in Linux and Windows.</p>
+
+<p>The option contains TSV Timestamp Value and TSER timestamp returned with ACK.</p>
+
+<p>1) the sender includes a 32 bit timestamp with each TCP packet, in the TSV section of the option</p>
+
+<p>2) the receiver keeps track of this received TSV value in a variabled called TsRecent</p>
+
+<p>3) when the receiver gets the next expected segment, it ACKs it and includes the value from the last TSV (TsRecent). The TSER portion of the option is used for this</p>
+
+<p>4) the sender gets the ACK and subtracts TSER from the current clock time to get an estimated Round Trip Time (RTT)</p>
+
+    </div>
+    
+    <footer>
+      <hr>
+      <p>
+  Published
+  
+    
+      by <span itemprop="author"></span>
+    
+  
+  <time datetime="2017-04-05T09:02:12&#43;00:00">
+    5 Apr, 2017
+  </time>
+  
+    in <span itemprop="articleSection"><a href="/categories//"></a></span>
+  
+  
+    and tagged <a href="/tags/tcp/">tcp</a>
+  
+  using <span itemprop="wordCount">140</span> words.
 </p>
-    
-  </header>
-  
-  <div itemprop="description">
-    I&rsquo;ve done this so many times now, and each time I&rsquo;ve needed to google it to remind me how, so I&rsquo;m putting it here for safe-keeping and reference.
-The first TonidoPlug (the white one) comes with a custom Ubuntu 9.04 Jaunty image. Unfortunately that&rsquo;s no longer supported by Canonical, so we need to change our repos to allow us to run an apt-get update.
-First though, we need to fix apt by running
-  </div>
-  
-    <p><a itemprop="url" href="/post/2012-09-09-fix-apt-get-tonidoplug-1/">Read More&nbsp;&raquo;</a></p>
-  
-</article>
 
+      
   
-    <article itemscope itemtype="http://schema.org/CreativeWork">
-  <header>
-    <h2 itemprop="headline">
-      <a href="https://feelydj.github.io/post/2012-09-09-fixing-botched-root-user-TonidoPlug-mysql-install/">fix root user in botched TonidoPlug mysql install</a>
-    </h2>
-    
-      <p class="muted"><svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <circle cx="16" cy="16" r="14" />
-  <path d="M16 8 L16 16 20 20" />
-</svg>
-<span>1 minute read</span>
-<svg style="margin-bottom: -3px" id="i-edit" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
-</svg>
 
-  Published: <time datetime="0001-01-01T00:00:00&#43;00:00">1 Jan, 0001</time>
 
-</p>
-    
-  </header>
-  
-  <div itemprop="description">
-    For some reason the settings for the /var/tmp directory conflict with a mysql install on TonidoPlug 1, and the root user does not get created. The solution for this is to change the permissions BEFORE installing mysql.
-chmod 777 /tmp  But what if you didn&rsquo;t already know this, or forget? You probably know it&rsquo;s pretty irritating trying to completely uninstall or reconfigure mysql easily, and change the root user&rsquo;s password.
-  </div>
-  
-    <p><a itemprop="url" href="/post/2012-09-09-fixing-botched-root-user-TonidoPlug-mysql-install/">Read More&nbsp;&raquo;</a></p>
-  
-</article>
 
-  
-    <article itemscope itemtype="http://schema.org/CreativeWork">
-  <header>
-    <h2 itemprop="headline">
-      <a href="https://feelydj.github.io/post/2014-12-15-git-aliases/">git aliases for .bashrc or .vimrc</a>
-    </h2>
-    
-      <p class="muted"><svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <circle cx="16" cy="16" r="14" />
-  <path d="M16 8 L16 16 20 20" />
-</svg>
-<span>1 minute read</span>
-<svg style="margin-bottom: -3px" id="i-edit" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
-</svg>
+  <aside>
+    <header>Related Content</header>
+    <ul>
+      
+      
+        <li><a href="/post/tcp-states/">tcp states</a> &ndash; 2 minutes
+      
+    </ul>
+  </aside>
 
-  Published: <time datetime="0001-01-01T00:00:00&#43;00:00">1 Jan, 0001</time>
 
-</p>
-    
-  </header>
-  
-  <div itemprop="description">
-    Cool little trick I just thought of. Shorten 99% of your git commands by putting this is in .zshrc or .bashrc
-# git alias checkout=&quot;git checkout&quot; alias push=&quot;git push&quot; alias pull=&quot;git pull&quot; alias commit=&quot;git commit&quot;  
-  </div>
-  
-</article>
-
-  
-    <article itemscope itemtype="http://schema.org/CreativeWork">
-  <header>
-    <h2 itemprop="headline">
-      <a href="https://feelydj.github.io/post/2014-04-14-guardian-eggs-quote/">guardian-eggs-quote</a>
-    </h2>
-    
-      <p class="muted"><svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <circle cx="16" cy="16" r="14" />
-  <path d="M16 8 L16 16 20 20" />
-</svg>
-<span>1 minute read</span>
-<svg style="margin-bottom: -3px" id="i-edit" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
-</svg>
-
-  Published: <time datetime="0001-01-01T00:00:00&#43;00:00">1 Jan, 0001</time>
-
-</p>
-    
-  </header>
-  
-  <div itemprop="description">
-    It wasn't so long ago that we were spoon-fed the unimpeachable "fact" that we should eat no more than two eggs a week because they contained heart-stopping cholesterol, but that gem of nutritional wisdom had to be quietly erased from history when research showing that cholesterol in eggs had almost no effect on blood cholesterol became too glaringly obvious to ignore.  Joanna Blythmanm, The Observer  
-  </div>
-  
-</article>
-
-  
+    </footer>
+  </article>
 </main>
     <footer>
-  <nav>
-  <p>
-    
-      <a href="/post/page/14/">&laquo; Previous</a> |
-    
-    <span>Page 15 of 23</span>
-    
-      | <a href="/post/page/16/">Next &raquo;</a>
-    
-  </p>
-</nav>
-
   
   <p class="muted">
     This page was generated by

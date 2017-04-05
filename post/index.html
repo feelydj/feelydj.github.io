@@ -24,7 +24,7 @@
 
 
 
-<meta property="og:updated_time" content="2017-03-19T09:36:51&#43;00:00"/>
+<meta property="og:updated_time" content="2017-04-05T09:02:12&#43;00:00"/>
 
 
 
@@ -264,6 +264,39 @@ jJasrM9JHpMQoTocKVCL4IPr/fOT+fzoT3p+SelrFs2odf2vmwZACVzT9SAJ8iKO6OCx+/tKkw2M
     <article itemscope itemtype="http://schema.org/CreativeWork">
   <header>
     <h2 itemprop="headline">
+      <a href="https://feelydj.github.io/post/tcp-rtt-measurement/">TCP Round Trip Time Measurement With Timestamps Option</a>
+    </h2>
+    
+      <p class="muted"><svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
+  <circle cx="16" cy="16" r="14" />
+  <path d="M16 8 L16 16 20 20" />
+</svg>
+<span>1 minute read</span>
+<svg style="margin-bottom: -3px" id="i-edit" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
+  <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
+</svg>
+
+  Published: <time datetime="2017-04-05T09:02:12&#43;00:00">5 Apr, 2017</time>
+
+</p>
+    
+  </header>
+  
+  <div itemprop="description">
+    RTT (Round Trip Time) measurement is important for TCP connections so that duplicate segments are not sent.
+One way to measure Round Trip Time is with the TCP Timestamps option TSOPT. This option is used by default in Linux and Windows.
+The option contains TSV Timestamp Value and TSER timestamp returned with ACK.
+1) the sender includes a 32 bit timestamp with each TCP packet, in the TSV section of the option
+  </div>
+  
+    <p><a itemprop="url" href="/post/tcp-rtt-measurement/">Read More&nbsp;&raquo;</a></p>
+  
+</article>
+
+  
+    <article itemscope itemtype="http://schema.org/CreativeWork">
+  <header>
+    <h2 itemprop="headline">
       <a href="https://feelydj.github.io/post/tcp-states/">tcp states</a>
     </h2>
     
@@ -394,43 +427,12 @@ And I did not chip in ten grand to seed a first investment round to build value 
 </article>
 
   
-    <article itemscope itemtype="http://schema.org/CreativeWork">
-  <header>
-    <h2 itemprop="headline">
-      <a href="https://feelydj.github.io/post/2012-06-26-script-start-new-jekyll-post-with-date/">scripting the creation of new Jekyll posts</a>
-    </h2>
-    
-      <p class="muted"><svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <circle cx="16" cy="16" r="14" />
-  <path d="M16 8 L16 16 20 20" />
-</svg>
-<span>1 minute read</span>
-<svg style="margin-bottom: -3px" id="i-edit" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
-</svg>
-
-  Published: <time datetime="2012-06-26T20:00:00&#43;00:00">26 Jun, 2012</time>
-
-</p>
-    
-  </header>
-  
-  <div itemprop="description">
-    I haven&rsquo;t played around with bash so much before, but I&rsquo;m learning by trying to automate things I do repeatedly. I found myself often starting a new Jekyll post with that magical filename format: YYYY-MM-DD-title.md. So I decided to try and get that done using an alias, which didn&rsquo;t really work, so I ended up adding a function to my .bashrc:
-function editpost() { vim $(date +&quot;%Y-%m-%d-$1.md&quot;) }  So now I can quickly start a Jekyll post with that title by going into my posts folder and using the command
-  </div>
-  
-    <p><a itemprop="url" href="/post/2012-06-26-script-start-new-jekyll-post-with-date/">Read More&nbsp;&raquo;</a></p>
-  
-</article>
-
-  
 </main>
     <footer>
   <nav>
   <p>
     
-    <span>Page 1 of 22</span>
+    <span>Page 1 of 23</span>
     
       | <a href="/post/page/2/">Next &raquo;</a>
     

@@ -9,6 +9,28 @@
     <atom:link href="https://feelydj.github.io/tags/tcp/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>TCP Round Trip Time Measurement With Timestamps Option</title>
+      <link>https://feelydj.github.io/post/tcp-rtt-measurement/</link>
+      <pubDate>Wed, 05 Apr 2017 09:02:12 +0000</pubDate>
+      
+      <guid>https://feelydj.github.io/post/tcp-rtt-measurement/</guid>
+      <description>&lt;p&gt;RTT (Round Trip Time) measurement is important for TCP connections so that duplicate segments are not sent.&lt;/p&gt;
+
+&lt;p&gt;One way to measure Round Trip Time is with the TCP Timestamps option TSOPT. This option is used by default in Linux and Windows.&lt;/p&gt;
+
+&lt;p&gt;The option contains TSV Timestamp Value and TSER timestamp returned with ACK.&lt;/p&gt;
+
+&lt;p&gt;1) the sender includes a 32 bit timestamp with each TCP packet, in the TSV section of the option&lt;/p&gt;
+
+&lt;p&gt;2) the receiver keeps track of this received TSV value in a variabled called TsRecent&lt;/p&gt;
+
+&lt;p&gt;3) when the receiver gets the next expected segment, it ACKs it and includes the value from the last TSV (TsRecent). The TSER portion of the option is used for this&lt;/p&gt;
+
+&lt;p&gt;4) the sender gets the ACK and subtracts TSER from the current clock time to get an estimated Round Trip Time (RTT)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>tcp states</title>
       <link>https://feelydj.github.io/post/tcp-states/</link>
       <pubDate>Sun, 19 Mar 2017 09:36:51 +0000</pubDate>
